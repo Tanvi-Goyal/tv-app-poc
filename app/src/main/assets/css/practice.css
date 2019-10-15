@@ -1,0 +1,162 @@
+        .question_container
+        {
+              box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.27);
+        }
+
+        .answer_block
+        {
+            border-top: solid 1px rgba(233,233,233,0.95);
+            border-bottom: solid 1px rgba(233,233,233,0.95);
+            padding: 8px 24px 20px 16px;
+            font-size: 16px;
+            font-family: Roboto , sans-serif;
+            line-height: 1.6;
+            letter-spacing: 0.9px;
+            text-align: left;
+            color: #000000;
+        }
+        .answer_block.matrix_block
+        {
+            border-bottom: none !important;
+        }
+        .MathJax{
+            outline:none;
+        }
+        .question_panel{
+            font-size: 20px;
+            font-weight: 300;
+            line-height: 22px;
+        }
+        .question_body_panel{
+            height: auto;
+            min-height: 40px;
+        }
+
+        .question_index_container{
+            padding: 10px 15px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .question_type_container{
+            padding: 10px 15px;
+            font-size: 16px;
+            font-weight: bold;
+        }
+        .answer_panel{
+            padding: 15px;
+            cursor: pointer;
+            font-size: 16px;
+            letter-spacing: 0.8px;
+            text-align: left;
+            color: #000000;
+        }
+        .integer_input.selected_answer
+        {
+            background-color: rgba(241, 102, 97,0.27);
+        }
+
+        .integer_input.correct_answer
+        {
+            background-color: #fff !important;
+        }
+
+        .integer_input.selected_answer.correct_answer
+        {
+            background-color: rgba(41, 185, 154,0.27) !important;
+        }
+
+        .answer_block
+        {
+            border-top: solid 1px rgba(233,233,233,0.95);
+            border-bottom: solid 1px rgba(233,233,233,0.95);
+            padding: 8px 24px 20px 16px;
+            font-size: 16px;
+            font-family: Roboto , sans-serif;
+            line-height: 1.6;
+            letter-spacing: 0.9px;
+            text-align: left;
+            color: #000000;
+        }
+
+        .para-answer_block
+        {
+            border-top: none;
+        }
+
+        input[type="checkbox"][readonly] {
+          pointer-events: none;
+        }
+
+        .answer_choice_index{
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            margin-right: 15px;
+            border-radius: 50%;
+            text-align: center;
+            line-height: 19px;
+            background-color: #d3d3d3;
+            float: left;
+            font-family: Roboto , sans-serif;
+            font-size: 13px;
+            font-weight: 500;
+            letter-spacing: 0.8px;
+            color: #ffffff;
+        }
+        .selected_answer{
+            background-color: #d4f3fe;
+        }
+
+        .selected_answer .answer_choice_index,
+        .correct_answer .answer_choice_index,
+        .wrong_answer .answer_choice_index
+        {
+            background-color: #4f4f4f;
+        }
+
+        .correct_answer{
+            background-color: rgba(41, 185, 154,0.27);
+        }
+
+        .wrong_answer{
+            background-color: rgba(241, 102, 97,0.27);
+        }
+
+        .answer_block.correct_answer:after {
+            content: 'Correct Answer';
+            color: #29b99a;
+            margin-left: 37px;
+            font-size: 16px;
+            display: block;
+            text-align: left;
+
+        }
+
+        .answer_block.selected_answer.correct_answer:after{
+            content: 'Correct Answer (Your Answer)';
+            color: #29b99a;
+            margin-left: 37px;
+            font-size: 16px;
+            display: block;
+            text-align: left;
+
+        }
+
+        .answer_block.selected_answer.wrong_answer:after {
+            content: 'Your Answer';
+            margin-left: 37px;
+            color: #f16661;
+            font-size: 16px;
+            display: block;
+            text-align: left;
+        }
+
+        .feedback_matrix.correct_ans
+        {
+            color: rgba(41, 185, 154,1);
+        }
+
+        .feedback_matrix.wrong_ans
+        {
+            color: rgba(241, 102, 97,1);
+        }

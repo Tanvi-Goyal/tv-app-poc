@@ -1,0 +1,204 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="../css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/chapter.css">
+    <link rel="stylesheet" href="../css/practice.css">
+
+    <style>
+        math {display:none;}
+
+    </style>
+
+    <script type="text/x-mathjax-config">
+        MathJax.Hub.Register.StartupHook("NativeMML Jax Ready",function () {
+          document.getElementById("hide-math").disabled = true;
+        });
+
+    </script>
+
+
+    <script type="text/x-mathjax-config">
+          MathJax.Hub.Config({
+            showMathMenu: false,
+            extensions: ["tex2jax.js"],
+            jax: ["input/TeX", "output/HTML-CSS"],
+            messageStyle: "none",
+            tex2jax: { inlineMath: [["\\(","\\)"]] },
+            tex2jax: {preview: "none",
+            inlineMath: [ ["\\(","\\)"] ],
+            displayMath: [ ['$$','$$'], ["\\[","\\]"] ],
+            processEscapes: true},
+            "HTML-CSS": { linebreaks: { automatic: true, width: "container" },availableFonts: ["TeX"] },
+            CommonHTML: { linebreaks: { automatic: true } }
+         });
+
+
+
+
+    </script>
+
+    <script type="text/javascript"
+            src="../MathJax/MathJax.js?config=TeX-AMS-MML_HTMLorMML&delayStartupUntil=configured"></script>
+</head>
+
+<body oncopy="return false" oncut="return false" onpaste="return false">
+<div ng-app="embibeApp" ng-controller="appCtrl">
+    <div class="test-question__container">
+        <div class="test-question__body" ng-init="choices = ['A', 'B', 'C', 'D', 'E', 'F']">
+            <p class="test-question__text panel-body para-answer_block"
+               ng-if="question.category != 'Linked Comprehension'" dynamic-data="question.body" ng-value="question.question_code"></p>
+            <ul class="no_list_padding"
+                ng-if="question.category != 'Multiple Choice' && question.category != 'Linked Comprehension Multiple Choice' && question.category != 'Integer' && question.category != 'Subjective Numerical' && question.category != 'Linked Comprehension' && question.category != 'Matrix'">
+                <li class="answer_panel answer_block single_choice"
+                    ng-class="{'selected_answer': answer.selected,'correct_answer': answer.correct,'wrong_answer': answer.wrong }"
+                    ng-repeat="answer in question.answers" ng-click="selectAnswers(answer)">
+                    <!-- <input class="test-question__choice-icon" ng-show="isJEEAdv" type="radio" ng-model="answer.selected" ng-value="true" name="singleChoiceAnswer{{question.number}}" ng-change="answerPostChange(answer)"> -->
+                    <span class="answer_choice_index" ng-bind="choices[$index]"></span>
+                    <span dynamic-data="answer.body"></span>
+                </li>
+            </ul>
+
+            <p class="test-question__text" ng-if="question.category == 'Linked Comprehension' || question.category == 'Linked Comprehension Multiple Choice'"
+               dynamic-data="extraxctParagraphFromComprehension(question.body)"
+               ng-class="{'comprehension-pra':isJeeAdv}" ng-value="question.question_code"></p>
+            <div class="qun-link-comprehension" ng-class="{'comprehension-qn':isJeeAdv}"
+                 ng-if="question.category == 'Linked Comprehension'">
+                <p class="test-question__text panel-body para-answer_block"
+                   dynamic-data="extractParagraphFromComprehension(question.body)" ng-value="question.question_code">
+                </p>
+                <p class="test-question__text panel-body para-answer_block"
+                   dynamic-data="extractQuestionForLinkComprehension(question.body)" ng-value="question.question_code"></p>
+                <div class="answer_panel answer_block" ng-click="selectAnswers(answer)"
+                     ng-class="{'selected_answer': answer.selected,'correct_answer': answer.correct,'wrong_answer': answer.wrong }"
+                     ng-repeat="answer in question.answers">
+                    <span class="answer_choice_index" ng-bind="choices[$index]"></span>
+                    <div dynamic-data="answer.body"></div>
+                </div>
+            </div>
+
+            <div class="qun-link-comprehension" ng-class="{'comprehension-qn':isJeeAdv}"
+                 ng-if="question.category == 'Linked Comprehension Multiple Choice'">
+                <p class="test-question__text panel-body para-answer_block"
+                   dynamic-data="extractParagraphFromComprehension(question.body)" ng-value="question.question_code">
+                </p>
+                <p class="test-question__text panel-body para-answer_block"
+                   dynamic-data="extractQuestionForLinkComprehension(question.body)" ng-value="question.question_code"></p>
+                <ul class="no_list_padding">
+                    <li class="answer_panel answer_block  multiple_choice"
+                        ng-class="{'selected_answer': answer.selected,'correct_answer': answer.correct,'wrong_answer': answer.wrong }"
+                        ng-repeat="answer in question.answers" ng-click="selectAnswers(answer)">
+                        <!--   <input class="test-question__choice-icon test-question__choice-icon--multiple" type="checkbox" value="true" ng-model="answer.selected" ng-show="isJEEAdv" ng-click="answerChange(answer)" ng-change="answerPostChange(answer)"> -->
+                        <span class="answer_choice_index" ng-bind="choices[$index]"></span>
+                        <span dynamic-data="answer.body"></span>
+                    </li>
+                </ul>
+            </div>
+
+            <ul class="no_list_padding" ng-if="question.category == 'Multiple Choice'">
+                <li class="answer_panel answer_block  multiple_choice"
+                    ng-class="{'selected_answer': answer.selected,'correct_answer': answer.correct,'wrong_answer': answer.wrong }"
+                    ng-repeat="answer in question.answers" ng-click="selectAnswers(answer)">
+                    <!--   <input class="test-question__choice-icon test-question__choice-icon--multiple" type="checkbox" value="true" ng-model="answer.selected" ng-show="isJEEAdv" ng-click="answerChange(answer)" ng-change="answerPostChange(answer)"> -->
+                    <span class="answer_choice_index" ng-bind="choices[$index]"></span>
+                    <span dynamic-data="answer.body"></span>
+                </li>
+            </ul>
+
+            <ul class="test-question__choices" ng-if="question.category == 'Matrix'">
+                <table class="table table-bordered table-striped" style="width: 25%;">
+                    <tr>
+                        <th>
+                        <th ng-repeat="header in matrix_header_top" ng-bind="header"></th>
+                        </th>
+                    </tr>
+                    <tr ng-repeat="header in matrix_header_left">
+                        <td>
+                            <strong ng-bind="header"></strong>
+                        </td>
+                        <td ng-repeat="header2 in matrix_header_top">
+                            <input name="matrix-answer" type="checkbox"
+                                   ng-click="matrixAnswerChange(header + '-' + header2, question.answers[0])"
+                                   ng-checked="isMatrixAnswerChecked(header,header2)"
+                                   class="{{question.question_code}}-seq">
+                        </td>
+                    </tr>
+                </table>
+                <span class="feedback_matrix correct_ans" ng-if="showIncorrectMatrix">Correct Answer</span>
+            </ul>
+
+            <ul class="answer_panel answer_block matrix_block" ng-if="question.category == 'Matrix' && showIncorrectMatrix">
+              <table class="table table-bordered table-striped" style="width: 25%;">
+                  <tr>
+                      <th>
+                      <th ng-repeat="header in matrix_header_top"> {{header}}</th>
+                      </th>
+                  </tr>
+                  <tr ng-repeat="header in matrix_header_left">
+                      <td>
+                          <strong>{{header}}</strong>
+                      </td>
+                      <td ng-repeat="header2 in matrix_header_top">
+                          <input name="matrix-answer" type="checkbox" ng-checked="MatrixAnswerSelected(header,header2)" class="{{question.question_code}}-seq" readonly>
+                      </td>
+                  </tr>
+              </table>
+              <span class="feedback_matrix wrong_ans">Your Answer</span>
+            </ul>
+
+
+            <span ng-if="question.category == 'Integer'">
+                  <div class="integer-option-block panel-body ">
+                    <input id="integer_input"
+                           oninput="javascript: if (this.value.length > this.maxLength) this.value = this.value.slice(0, this.maxLength);"
+                           type="tel"
+                           pattern="\d*"
+                           onkeypress="return e.charCode >= 48 && e.charCode <=57"
+                           maxlength="1" ng-model="val"
+                           ng-keyup="setIntegerValue()" data-ng-trim="false"
+                           numbers-only="{{question.category}}"
+                           ng-class="{'selected_answer': question['answers'][0].selected ,'correct_answer': question['answers'][0].correct}"
+                           />
+                           <span id="feedback" ng-if="showCorrect">Correct Answer: {{question['answers'][0].body}}</span>
+                  </div>
+              </span>
+            <span ng-if="question.category == 'Subjective Numerical' ">
+                <div class="integer-option-block panel-body ">
+                    <input id="subjective_input" ng-model="val" type="number"
+                           ng-keyup="setSubjectiveNumericalValue()" data-ng-trim="false"
+                           ng-class="{'selected_answer': question['answers'][0].selected ,'correct_answer': question['answers'][0].correct}"
+                           numbers-only="{{question.category}}"
+                           ng-class="{'selected_answer': question['answers'][0].selected ,'correct_answer': question['answers'][0].correct}"/>
+                           <span id="feedback" ng-if="showCorrect">Correct Answer: {{question['answers'][0].body}}</span>
+                </div>
+            </span>
+        </div>
+    </div>
+</div>
+</body>
+
+<script type="text/javascript" src="../js/jquery.min.js"></script>
+<script src="../js/bootstrap.min.js"></script>
+<script src="../js/angular.min.js"></script>
+<script src="../js/practice.js"></script>
+
+<script type="text/javascript">
+
+    $("body").on("contextmenu",function(e){
+        return false;
+    });
+
+    $('body').bind('cut copy paste', function (e) {
+        e.preventDefault();
+    });
+
+        MathJax.Hub.Configured()
+
+
+</script>
+
+
+</html>

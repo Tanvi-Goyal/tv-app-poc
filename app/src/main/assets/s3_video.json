@@ -1,0 +1,3712 @@
+{
+  "data": [
+    {
+      "title": "Home Card",
+      "type": "header",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/dz5InmkiNuWAkhFWnXlF2Vk3mAQ\"",
+          "id": "CXQpCEnrNiU",
+          "concept": [
+            "Echinodermata",
+            "Phylum Echinodermata"
+          ],
+          "chapter": [
+            "Animal Kingdom"
+          ],
+          "subject": "Biology",
+          "grade": "10th CBSE",
+          "home_card_img": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/CXQpCEnrNiU.png",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/CXQpCEnrNiU.png",
+            "publishedAt": "2019-09-24T14:27:14.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Echinoderms",
+            "description": "Echinoderms",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/CXQpCEnrNiU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/CXQpCEnrNiU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/CXQpCEnrNiU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/CXQpCEnrNiU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/CXQpCEnrNiU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Echinoderms"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Echinoderms",
+              "description": "Echinoderms"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT2M57S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Embibe TV",
+      "type": "image",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/OFvP8jYY-lCDelmy6gagCWDhau4\"",
+          "id": "ihkwCCo5HFc",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/ihkwCCo5HFc.png",
+            "publishedAt": "2019-01-19T17:28:50.000Z",
+            "channelId": "UCvctBJuSTb0ditEx5DUlGNw",
+            "title": "Different Habitats",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ihkwCCo5HFc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ihkwCCo5HFc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ihkwCCo5HFc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/ihkwCCo5HFc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/ihkwCCo5HFc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "embibe.com",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Different Habitats",
+              "description": ""
+            }
+          },
+          "contentDetails": {
+            "duration": "PT5M4S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          },
+          "subject": "Biology",
+          "chapter": [
+            "Organisms and Populations"
+          ],
+          "concept": [
+            "Adaptations of Organisms",
+            "Organism and its Environment "
+          ],
+          "grade": "10th CBSE"
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/PDR7HE7fvnMJ-0dElFUkOE9Ktzs\"",
+          "id": "OKP49_u6Tyc",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/OKP49_u6Tyc.png",
+            "publishedAt": "2019-01-19T19:45:13.000Z",
+            "channelId": "UCvctBJuSTb0ditEx5DUlGNw",
+            "title": "Respiratory Video",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/OKP49_u6Tyc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/OKP49_u6Tyc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/OKP49_u6Tyc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/OKP49_u6Tyc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/OKP49_u6Tyc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "embibe.com",
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Respiratory Video",
+              "description": ""
+            }
+          },
+          "contentDetails": {
+            "duration": "PT4M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          },
+          "subject": "Biology",
+          "chapter": [
+            "Life Processes"
+          ],
+          "concept": [
+            "Human Respiratory System",
+            "Nostrils",
+            "Nasal Cavity",
+            "Pharynx",
+            "Larynx",
+            "Trachea",
+            "Lungs",
+            "Bronchi",
+            "Bronchioles",
+            "Respiratory Bronchioles",
+            "Alveolar Sac",
+            "Alveoli",
+            "Respiration"
+          ],
+          "grade": "10th CBSE"
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/3gVl2OgjYA1axJyXD5E-6E24yHo\"",
+          "id": "xDSFlRunlrU",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/xDSFlRunlrU.png",
+            "publishedAt": "2016-01-21T20:36:18.000Z",
+            "channelId": "UCONtPx56PSebXJOxbFv-2jQ",
+            "title": "Living Things Change: Crash Course Kids #41.1",
+            "description": "Have you ever heard of the Peppered Moth? It's a great example of how living things can change because their environment has changed. And it's not just them! There used to be giant insects roaming the world, but they got smaller through time because their environments changed. In this episode of Crash Course Kids, Sabrina gives us some examples of how and why living things change because of their environments. \n\nWatch More Crash Course Kids: https://www.youtube.com/user/crashcoursekids\n\n///Standards Used in This Video///\n5-LS2-1. Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment. [Clarification Statement: Emphasis is on the idea that matter that is not food (air, water, decomposed materials in soil) is changed by plants into matter that is food. Examples of systems could include organisms, ecosystems, and the Earth.] [Assessment Boundary: Assessment does not include molecular explanations.]\n\nWant to find Crash Course elsewhere on the internet?\nCrash Course Main Channel: https://www.youtube.com/crashcourse\nFacebook - https://www.facebook.com/YouTubeCrashCourse\nTwitter - http://www.twitter.com/thecrashcourse\nTumblr - http://thecrashcourse.tumblr.com\n\nCredits...\nProducer & Editor: Nicholas Jenkins\nCinematographer & Director: Michael Aranda\nHost: Sabrina Cruz\nScript Supervisor: Mickie Halpern\nWriter: Jen Szymanski\nExecutive Producers: John & Hank Green\nConsultant: Shelby Alinsky\nScript Editor: Blake de Pastino\n\nThought Cafe Team:\nStephanie Bailis\nCody Brown\nSuzanna Brusikiewicz\nJonathan Corbiere\nNick Counter\nKelsey Heinrichs\nJack Kenedy\nCorey MacDonald\nTyler Sammy\nNikkie Stinchcombe \nJames Tuer\nAdam Winnik",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/xDSFlRunlrU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/xDSFlRunlrU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/xDSFlRunlrU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/xDSFlRunlrU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/xDSFlRunlrU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Crash Course Kids",
+            "tags": [
+              "science",
+              "life science",
+              "earth science",
+              "earth",
+              "environment",
+              "insects",
+              "crash course",
+              "peppered moth",
+              "change",
+              "kids science",
+              "model",
+              "ecosystem"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Living Things Change: Crash Course Kids #41.1",
+              "description": "Have you ever heard of the Peppered Moth? It's a great example of how living things can change because their environment has changed. And it's not just them! There used to be giant insects roaming the world, but they got smaller through time because their environments changed. In this episode of Crash Course Kids, Sabrina gives us some examples of how and why living things change because of their environments. \n\nWatch More Crash Course Kids: https://www.youtube.com/user/crashcoursekids\n\n///Standards Used in This Video///\n5-LS2-1. Develop a model to describe the movement of matter among plants, animals, decomposers, and the environment. [Clarification Statement: Emphasis is on the idea that matter that is not food (air, water, decomposed materials in soil) is changed by plants into matter that is food. Examples of systems could include organisms, ecosystems, and the Earth.] [Assessment Boundary: Assessment does not include molecular explanations.]\n\nWant to find Crash Course elsewhere on the internet?\nCrash Course Main Channel: https://www.youtube.com/crashcourse\nFacebook - https://www.facebook.com/YouTubeCrashCourse\nTwitter - http://www.twitter.com/thecrashcourse\nTumblr - http://thecrashcourse.tumblr.com\n\nCredits...\nProducer & Editor: Nicholas Jenkins\nCinematographer & Director: Michael Aranda\nHost: Sabrina Cruz\nScript Supervisor: Mickie Halpern\nWriter: Jen Szymanski\nExecutive Producers: John & Hank Green\nConsultant: Shelby Alinsky\nScript Editor: Blake de Pastino\n\nThought Cafe Team:\nStephanie Bailis\nCody Brown\nSuzanna Brusikiewicz\nJonathan Corbiere\nNick Counter\nKelsey Heinrichs\nJack Kenedy\nCorey MacDonald\nTyler Sammy\nNikkie Stinchcombe \nJames Tuer\nAdam Winnik"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT4M37S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Biology",
+          "chapter": [
+            "Organisms and Populations"
+          ],
+          "concept": [
+            "Adaptations of Organisms",
+            "Organism and its Environment"
+          ],
+          "grade": "10th CBSE"
+        }
+      ]
+    },
+    {
+      "title": "Coobo for Learning",
+      "type": "image",
+      "items": [
+        {
+          "url": "https://staging-s3.coobo.io/api/view/5d3cead7e1e3770af7e83a80",
+          "id": "5d3cead7e1e3770af7e83a80",
+          "type": "customlearning",
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/motion_thumb.png",
+            "title": "Motion",
+            "description": "Distance, Displacement, Speed and Velocity",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/motion.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/motion.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/motion.png"
+              }
+            }
+          },
+          "concept": [
+            "Distance of body",
+            "Displacement of Body",
+            "Speed",
+            "Velocity",
+            "Distance"
+          ],
+          "chapter": "Motion",
+          "subject": "Physics",
+          "grade": "10th CBSE"
+        },
+        {
+          "url": "https://embibe.coo.bo/api/view/5c94572421425a09adcb3e4e",
+          "id": "5d0b8c1cda10464a333ef536",
+          "type": "customlearning",
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/digestive_system.png",
+            "title": "The Digestive System",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/digestive_system.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/digestive_system.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/digestive_system.png"
+              }
+            }
+          },
+          "concept": [
+            "Teeth",
+            "Enzymes",
+            "Saliva",
+            "Salivary Amylase",
+            "Digestion",
+            "Tongue",
+            "Oesophagus",
+            "Stomach",
+            "Digestive Juices",
+            "Gastric Glands",
+            "Hydrochloric Acid",
+            "Pepsin",
+            "Sphincter Muscle",
+            "Small Intestine",
+            "Liver",
+            "Pancreas",
+            "Pancreatic Enzymes",
+            "Bile Juice",
+            "Villi",
+            "Alimentary canal"
+          ],
+          "chapter": "Life processes",
+          "subject": "Biology",
+          "grade": "10th CBSE"
+        },
+        {
+          "url": "https://embibe.coo.bo/api/view/5c94d63121425a09adcb3e63",
+          "type": "customlearning",
+          "id": "5d0a11f4da10464a333ef42e",
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/structure-of-the-atom.png",
+            "title": "The Structure of the Atom",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/structure-of-the-atom.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/structure-of-the-atom.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/structure-of-the-atom.png"
+              }
+            }
+          },
+          "concept": [
+            "Structure of an Atom",
+            "Orbits",
+            "Neutrons",
+            "Electrons Distribution in Different Orbits"
+          ],
+          "chapter": "Structure of the Atom",
+          "subject": "Chemistry",
+          "grade": "10th CBSE"
+        },
+        {
+          "url": "https://embibe.coo.bo/api/view/5c92728f6d1c7b46a7161d9a",
+          "type": "customlearning",
+          "id": "customlearning-slingshot",
+          "snippet": {
+            "title": "Improper fractions",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/fractions.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/fractions.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/fractions.png"
+              }
+            },
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/fractions.png"
+          },
+          "concept": [
+            "Fractions",
+            "Fraction as a Part of a Whole Quantity",
+            "Proper Fractions",
+            "Improper Fractions",
+            "Mixed Fractions",
+            "Interconversion between Mixed and Improper Fractions",
+            "Proper and Improper Fractions"
+          ],
+          "chapter": "Fractions And Decimals",
+          "subject": "Mathematics",
+          "grade": "10th CBSE"
+        },
+        {
+          "url": "https://embibe.coo.bo/api/view/5c6ed6fe8411716badd094e4",
+          "type": "customlearning",
+          "id": "5d0b38ffda10464a333ef500",
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/heart-simulation.png",
+            "title": "Heart simulation",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/heart-simulation.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/heart-simulation.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/heart-simulation.png"
+              }
+            }
+          },
+          "concept": [
+            "Transportation",
+            "Working of Heart"
+          ],
+          "chapter": "Life Processes",
+          "subject": "Biology",
+          "grade": "10th CBSE"
+        }
+      ]
+    },
+    {
+      "title": "Out of Syllabus",
+      "type": "image",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/hr1QvQnLaNAVDZ4x1j6TvpBGPyY\"",
+          "id": "fUyPDaAeIpU",
+          "concept": [
+            "Hormones",
+            "Hormones in Animals"
+          ],
+          "chapter": [
+            "Control and coordination"
+          ],
+          "subject": "Biology",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/fUyPDaAeIpU.png",
+            "publishedAt": "2019-09-24T14:38:36.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Why do ants walk in a straight line",
+            "description": "Why do ants walk in a straight line",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fUyPDaAeIpU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fUyPDaAeIpU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fUyPDaAeIpU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/fUyPDaAeIpU/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/fUyPDaAeIpU/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Why do ants walk in a straight line"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Why do ants walk in a straight line",
+              "description": "Why do ants walk in a straight line"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT1M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/27u2glzqTYb8sQXxZLsoqmg-yDE\"",
+          "id": "xtdODdqttaY",
+          "concept": [
+            "Coelenterata",
+            "Non- Chordates"
+          ],
+          "chapter": [
+            "Diversity in Living Organisms"
+          ],
+          "subject": "Biology",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/xtdODdqttaY.png",
+            "publishedAt": "2019-09-24T14:35:45.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "The blue fleet",
+            "description": "The blue fleet",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/xtdODdqttaY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/xtdODdqttaY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/xtdODdqttaY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/xtdODdqttaY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/xtdODdqttaY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "The blue fleet"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The blue fleet",
+              "description": "The blue fleet"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT2M41S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/A6oic8DKaLW0Fqa9vunjcsQCoHU\"",
+          "id": "iO7iejeyoto",
+          "concept": [
+            "Neptune",
+            "Planets"
+          ],
+          "chapter": [
+            "Stars and the Solar System"
+          ],
+          "subject": "Physics",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/iO7iejeyoto.png",
+            "publishedAt": "2019-09-24T14:30:23.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Life on Neptune",
+            "description": "Life on Neptune",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/iO7iejeyoto/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/iO7iejeyoto/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/iO7iejeyoto/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/iO7iejeyoto/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/iO7iejeyoto/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Life on Neptune"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Life on Neptune",
+              "description": "Life on Neptune"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT2M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "id": "zQowljL8e5E",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/x0la1nAz6mdRy50wTG5i6VmQZLs\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/zQowljL8e5E.png",
+            "publishedAt": "2017-04-24T12:13:27.000Z",
+            "channelId": "UCobgOt3poNKlml3Y5TnVU8Q",
+            "title": "Why is soil pH important to farmers? | #aumsum",
+            "description": "Topic: pH value\nWhy is pH value important to a farmer?\nWhat is happening to the tree?\nIs it merely because of pH?\nYes, you are right.\npH is the measure of acidity or basicity of a substance.\nIt is expressed by positive numbers ranging from 0 to 14 where 7 indicates a neutral value, that is, neither acidic nor basic.\nWhen the pH value of a substance is below 7, it is termed as acidic and when it is above 7, it is termed as basic.\nThe pH value of ideal soil is usually close to neutral.\nIt ranges from about 6.5 to 7.5.\nIf we don't maintain this pH, growth of most of the plants is adversely affected.\nAre you shocked?\nDid the white marble just turn yellowish brown due to acid rain?\nYes, you are right. \nThe pH of rainwater is about 5.6.\nThis means that rainwater is slightly acidic.\nThis slightly acidic nature of rainwater does not really cause any damage.\nBut, in last few years, many harmful substances are being released into the atmosphere.\nAddition of these substances drops the pH of rainwater. \nIn certain cities, the proportion of these harmful substances is so high in the atmosphere that it drops the pH of rainwater to a much lower level making it strongly acidic.\nWhen this strongly acidic rainwater falls down, it is termed as acid rain. \nThis acid rain not only discolors white marbles, but also harms human beings and animals in several ways.\nDid the plant just turn yellow?\nWhy do you think this happened?\nThe plant turned yellow due to increase in pH value of the soil.\nA pigment named chlorophyll gives a plant its green color.\nThe plant prepares chlorophyll with the help of iron.\nWhen the plant absorbs water from soil, it also takes in iron present in that soil and prepares chlorophyll. \nHowever, when the pH of soil increases, that is, when it becomes more basic, the availability of iron decreases.\nAs a result, the plant does not get the required amount of iron to make chlorophyll and hence, it turns yellow.\nAlso, besides the availability of iron, pH value of soil also affects the level of toxic substances, growth of bacteria and roots, etc.\nThus, when a farmer has to grow any crop, he has to know the value of pH of his soil for a good yield.\nOtherwise, his crop will face undesirable consequences and ultimately, he may suffer a great loss.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zQowljL8e5E/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zQowljL8e5E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zQowljL8e5E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/zQowljL8e5E/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/zQowljL8e5E/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "It's AumSum Time",
+            "tags": [
+              "smart learning",
+              "smart learning for all",
+              "smartlearning",
+              "animation",
+              "teacher",
+              "student",
+              "school",
+              "lesson",
+              "education",
+              "science",
+              "kids",
+              "children",
+              "Secondary School (School Category)",
+              "chemistry",
+              "ph value",
+              "ph value in chemistry",
+              "ph meter",
+              "importance of ph in everyday life",
+              "ph scale",
+              "ph value test",
+              "ph value experiment",
+              "ph value of soil",
+              "ph value of soil test",
+              "ph levels in water",
+              "ph level",
+              "ph level in soil",
+              "aumsum",
+              "aum sum",
+              "aumsum time",
+              "it's aumsum time",
+              "its aumsum time"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Why is soil pH important to farmers? | #aumsum",
+              "description": "Topic: pH value\nWhy is pH value important to a farmer?\nWhat is happening to the tree?\nIs it merely because of pH?\nYes, you are right.\npH is the measure of acidity or basicity of a substance.\nIt is expressed by positive numbers ranging from 0 to 14 where 7 indicates a neutral value, that is, neither acidic nor basic.\nWhen the pH value of a substance is below 7, it is termed as acidic and when it is above 7, it is termed as basic.\nThe pH value of ideal soil is usually close to neutral.\nIt ranges from about 6.5 to 7.5.\nIf we don't maintain this pH, growth of most of the plants is adversely affected.\nAre you shocked?\nDid the white marble just turn yellowish brown due to acid rain?\nYes, you are right. \nThe pH of rainwater is about 5.6.\nThis means that rainwater is slightly acidic.\nThis slightly acidic nature of rainwater does not really cause any damage.\nBut, in last few years, many harmful substances are being released into the atmosphere.\nAddition of these substances drops the pH of rainwater. \nIn certain cities, the proportion of these harmful substances is so high in the atmosphere that it drops the pH of rainwater to a much lower level making it strongly acidic.\nWhen this strongly acidic rainwater falls down, it is termed as acid rain. \nThis acid rain not only discolors white marbles, but also harms human beings and animals in several ways.\nDid the plant just turn yellow?\nWhy do you think this happened?\nThe plant turned yellow due to increase in pH value of the soil.\nA pigment named chlorophyll gives a plant its green color.\nThe plant prepares chlorophyll with the help of iron.\nWhen the plant absorbs water from soil, it also takes in iron present in that soil and prepares chlorophyll. \nHowever, when the pH of soil increases, that is, when it becomes more basic, the availability of iron decreases.\nAs a result, the plant does not get the required amount of iron to make chlorophyll and hence, it turns yellow.\nAlso, besides the availability of iron, pH value of soil also affects the level of toxic substances, growth of bacteria and roots, etc.\nThus, when a farmer has to grow any crop, he has to know the value of pH of his soil for a good yield.\nOtherwise, his crop will face undesirable consequences and ultimately, he may suffer a great loss."
+            },
+            "defaultAudioLanguage": "en",
+            "defaultLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT5M50S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Chemistry",
+          "chapter": [
+            "Acids",
+            "Bases",
+            "Salts"
+          ],
+          "concept": [
+            "Importance of pH in Everyday Life",
+            "Survival of Aquatic Life",
+            "Importance of pH in Our Digestive System",
+            "Changes in pH As The Cause of Tooth Decay",
+            "Importance of pH for Growth of Plants",
+            "Importance of pH for Self Defence of Animals And Plants"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 205,
+              "questions": [
+                {
+                  "body": "The pH of rainwater has fallen because of ",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "the emission of harmful gases",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "09b9afd9-165d-499e-b0d0-b0b103e25cad-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "the dropping of the water table",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "09b9afd9-165d-499e-b0d0-b0b103e25cad-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "radioactive contamination",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "09b9afd9-165d-499e-b0d0-b0b103e25cad-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "09b9afd9-165d-499e-b0d0-b0b103e25cad-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144813,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "09b9afd9-165d-499e-b0d0-b0b103e25cad",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 297,
+              "questions": [
+                {
+                  "body": "Deficiency of iron turns most leaves $______$?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "red",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "a43d8ff5-dd77-443b-9b40-215230870858-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "orange",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "a43d8ff5-dd77-443b-9b40-215230870858-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "yellow",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "a43d8ff5-dd77-443b-9b40-215230870858-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "green",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "a43d8ff5-dd77-443b-9b40-215230870858-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144814,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "a43d8ff5-dd77-443b-9b40-215230870858",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "AcX2n1rC4W4",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/9Nmg97ek6Lp2Pic0a6MRCENhDtY\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/AcX2n1rC4W4.png",
+            "publishedAt": "2012-11-16T00:30:30.000Z",
+            "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+            "title": "3 Amazing Photosynthetic Animals",
+            "description": "Hank's love affair with plants takes a slight hit now that he's learned about several animal species that can photosynthesize. Fortunately, he's excited enough about these animals to share them with all of us! Let SciShow introduce you to three these special photosynthetic animals.  \n\nLike SciShow!  http://www.facebook.com/scishow\nFollow SciShow!  http://www.twitter.com/scishow\n\nReferences and image licenses for this episode can be found in the Google document here: http://dft.ba/-2Dwr",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/AcX2n1rC4W4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/AcX2n1rC4W4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/AcX2n1rC4W4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/AcX2n1rC4W4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/AcX2n1rC4W4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "SciShow",
+            "tags": [
+              "scishow",
+              "science",
+              "biology",
+              "hank green",
+              "autotroph",
+              "animal",
+              "sunlight",
+              "energy",
+              "photosynthesis",
+              "sea slug",
+              "eastern emerald elysia",
+              "algae",
+              "genes",
+              "chloroplast",
+              "organelle",
+              "protein",
+              "pea aphid",
+              "carotenoid",
+              "chlorophyll",
+              "ATP",
+              "food",
+              "spotted salamander",
+              "vertebrate",
+              "cell",
+              "embryo",
+              "egg",
+              "symbiosis",
+              "plant",
+              "research",
+              "discovery",
+              "scientist",
+              "genetic",
+              "Elysia chlorotica",
+              "Ambystoma maculatum"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "3 Amazing Photosynthetic Animals",
+              "description": "Hank's love affair with plants takes a slight hit now that he's learned about several animal species that can photosynthesize. Fortunately, he's excited enough about these animals to share them with all of us! Let SciShow introduce you to three these special photosynthetic animals.  \n\nLike SciShow!  http://www.facebook.com/scishow\nFollow SciShow!  http://www.twitter.com/scishow\n\nReferences and image licenses for this episode can be found in the Google document here: http://dft.ba/-2Dwr"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT3M54S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Biology",
+          "chapter": [
+            "Life Processes"
+          ],
+          "concept": [
+            "Photosynthesis",
+            "Chlorophyll",
+            "Splitting of Water"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 76,
+              "questions": [
+                {
+                  "body": "Eastern Emerald Elysia is a sea slug gets energy through photosynthesis. Which of the following statements supports this fact?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": null,
+                      "position": 1,
+                      "explanation": "",
+                      "code": "f56a4b7f-9e3f-4b1e-ad12-a18a14fd0e55-1",
+                      "correct": false
+                    },
+                    {
+                      "body": null,
+                      "position": 2,
+                      "explanation": "",
+                      "code": "f56a4b7f-9e3f-4b1e-ad12-a18a14fd0e55-2",
+                      "correct": false
+                    },
+                    {
+                      "body": null,
+                      "position": 3,
+                      "explanation": "",
+                      "code": "f56a4b7f-9e3f-4b1e-ad12-a18a14fd0e55-3",
+                      "correct": true
+                    },
+                    {
+                      "body": null,
+                      "position": 4,
+                      "explanation": "",
+                      "code": "f56a4b7f-9e3f-4b1e-ad12-a18a14fd0e55-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144821,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "f56a4b7f-9e3f-4b1e-ad12-a18a14fd0e55",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 109,
+              "questions": [
+                {
+                  "body": "Chlorophylls absorb more light than carotenoids.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "true",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "79d265b7-955e-43cf-9a77-214592a8ae9d-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "false",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "79d265b7-955e-43cf-9a77-214592a8ae9d-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "true or false",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "79d265b7-955e-43cf-9a77-214592a8ae9d-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "Neither One",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "79d265b7-955e-43cf-9a77-214592a8ae9d-4",
+                      "correct": true
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144822,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "79d265b7-955e-43cf-9a77-214592a8ae9d",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 165,
+              "questions": [
+                {
+                  "body": "Spotted Salamander has _____ filled cells all over their body.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "caratenoids",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "80c656ae-692b-4eff-997a-6fe746746fa5-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "chlorophyll",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "80c656ae-692b-4eff-997a-6fe746746fa5-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "discolor",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "80c656ae-692b-4eff-997a-6fe746746fa5-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "80c656ae-692b-4eff-997a-6fe746746fa5-2",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144823,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "80c656ae-692b-4eff-997a-6fe746746fa5",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "AXOa66-k9MA",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/iQRx7PHcwIKTDwcM3SAPHSYVFEQ\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/AXOa66-k9MA.png",
+            "publishedAt": "2016-06-14T16:57:01.000Z",
+            "channelId": "UC7DdEm33SyaTDtWYGO2CwdA",
+            "title": "Exploding soda cans with electromagnets in SLOW MOTION ft Joe Hanson",
+            "description": "Making Music with a Tesla Coil: https://youtu.be/KGhNgeg9IAw \n\nWatch a soda can rip itself apart in a fiery explosion at 11,000fps with a Phantom high speed camera. Running a current through a coil, produces an electromagnet. Turn up the voltage in this experiment, and make that current strong enough, and your electromagnet can rip a soda can in half. Or rather, make the can rip itself in half! This video was filmed at Arc Attack Studios in Austin, TX with Joe Hanson, Joe DiPrima, John DiPrima and Darren Dyk. \n\nThis video is sponsored by Audible - http://audible.com/physicsgirl\n\n360 Tesla Coil Video:\nhttps://youtu.be/2SNcbNlbyVo\nIt’s Okay to Be Smart Channel:\nhttps://www.youtube.com/itsokaytobesmart\n\nArcAttack:\nhttps://www.facebook.com/arc.attack/\n\nBeyond Slow Motion:\nhttps://www.youtube.com/user/BeyondSlowMotion\n\nUse Induction to make your own DIY Electric Train:\nhttps://www.youtube.com/watch?v=9k7zywli4Vg\n\nHelp us translate our videos! http://www.youtube.com/timedtext_cs_panel?c=UC7DdEm33SyaTDtWYGO2CwdA&tab=2\n\nCreator: Dianna Cowern\nEditor: Jabril Ashe\nAnimator: Kyle Norby\n\nHow the quarter shrinking demo works: \nA coil of wire is wrapped around the quarter so it follows the edge of the quarter. Then a capacitor - kind of like a battery - is charged until it’s at a VERY high-voltage, which is then discharged through the wire. The current produced is high enough to make you go bye bye. The coil becomes an electromagnet - because current —≥ magnetic field  But this magnetic field creates another current or set of currents in the quarter - because changing magnetic field —≥ current in a circuit. But moving charges, i.e. currents, in a magnetic field will feel a force. For the quarter, the charges moving in the edge are feeling a force inward. The current was SO strong that the quarter PULLED ITSELF inward! This is madness.\n\nhttp://physicsgirl.org/ \nhttp://twitter.com/thephysicsgirl\nhttp://facebook.com/thephysicsgirl\nhttp://instagram.com/thephysicsgirl\n\n\nMusic: APM and YouTube\n\"On the Bach\"\n“Built Together Marimba“\n“The Bumbling Professor“\n“Built Together Soundscape“\n\nProvided by ArcAttack:\n“1812 Overture”\n\nFor Science!",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/AXOa66-k9MA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/AXOa66-k9MA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/AXOa66-k9MA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/AXOa66-k9MA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/AXOa66-k9MA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Physics Girl",
+            "tags": [
+              "11000 fps",
+              "phantom",
+              "high speed",
+              "experiment",
+              "explosion",
+              "1000 fps",
+              "4k",
+              "physics",
+              "science",
+              "arcattack",
+              "physics girl",
+              "physics woman",
+              "dianna cowern",
+              "joe hanson",
+              "itsokaytobesmart",
+              "pbs",
+              "education",
+              "stem",
+              "mit",
+              "slow motion",
+              "electromagnet",
+              "exploding soda can"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Exploding soda cans with electromagnets in SLOW MOTION ft Joe Hanson",
+              "description": "Making Music with a Tesla Coil: https://youtu.be/KGhNgeg9IAw \n\nWatch a soda can rip itself apart in a fiery explosion at 11,000fps with a Phantom high speed camera. Running a current through a coil, produces an electromagnet. Turn up the voltage in this experiment, and make that current strong enough, and your electromagnet can rip a soda can in half. Or rather, make the can rip itself in half! This video was filmed at Arc Attack Studios in Austin, TX with Joe Hanson, Joe DiPrima, John DiPrima and Darren Dyk. \n\nThis video is sponsored by Audible - http://audible.com/physicsgirl\n\n360 Tesla Coil Video:\nhttps://youtu.be/2SNcbNlbyVo\nIt’s Okay to Be Smart Channel:\nhttps://www.youtube.com/itsokaytobesmart\n\nArcAttack:\nhttps://www.facebook.com/arc.attack/\n\nBeyond Slow Motion:\nhttps://www.youtube.com/user/BeyondSlowMotion\n\nUse Induction to make your own DIY Electric Train:\nhttps://www.youtube.com/watch?v=9k7zywli4Vg\n\nHelp us translate our videos! http://www.youtube.com/timedtext_cs_panel?c=UC7DdEm33SyaTDtWYGO2CwdA&tab=2\n\nCreator: Dianna Cowern\nEditor: Jabril Ashe\nAnimator: Kyle Norby\n\nHow the quarter shrinking demo works: \nA coil of wire is wrapped around the quarter so it follows the edge of the quarter. Then a capacitor - kind of like a battery - is charged until it’s at a VERY high-voltage, which is then discharged through the wire. The current produced is high enough to make you go bye bye. The coil becomes an electromagnet - because current —≥ magnetic field  But this magnetic field creates another current or set of currents in the quarter - because changing magnetic field —≥ current in a circuit. But moving charges, i.e. currents, in a magnetic field will feel a force. For the quarter, the charges moving in the edge are feeling a force inward. The current was SO strong that the quarter PULLED ITSELF inward! This is madness.\n\nhttp://physicsgirl.org/ \nhttp://twitter.com/thephysicsgirl\nhttp://facebook.com/thephysicsgirl\nhttp://instagram.com/thephysicsgirl\n\n\nMusic: APM and YouTube\n\"On the Bach\"\n“Built Together Marimba“\n“The Bumbling Professor“\n“Built Together Soundscape“\n\nProvided by ArcAttack:\n“1812 Overture”\n\nFor Science!"
+            },
+            "defaultAudioLanguage": "en-US"
+          },
+          "contentDetails": {
+            "duration": "PT7M56S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Physics",
+          "chapter": [
+            "Magnetic effects of electric current"
+          ],
+          "concept": [
+            "Magnetic Field Lines of a Bar Magnet",
+            "Magnetic Effect of Electric Current",
+            "Magnetic Field Due to a Current Carrying Conductor",
+            "Magnetic Field Due to Current through a Straight Conductor",
+            "Magnetic Field Lines Due to Current through Straight Conductor",
+            "Right Hand Thumb Rule for Direction of Magnetic Field",
+            "Maxwell's Cork Screw Rule",
+            "Magnetic Field Due to Current through a Circular Loop",
+            "Magnetic Field Due to a Circular Loop Having N Turns",
+            "Solenoid",
+            "Magnetic Field Due to Current in a Solenoid",
+            "Electromagnet",
+            "Force on a Current Carrying Conductor in a Magnetic Field",
+            "Direction of Force on a Conductor in Magnetic Field",
+            "Flemings Left Hand Rule"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 138,
+              "questions": [
+                {
+                  "body": "Pick the rule to find the direction of current induced in a coil due to its rotation in a magnetic field.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "Fleming's right hand rule",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "9493f3cb-4148-42a1-88b8-ccf75c4d175b-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "Fleming's left hand rule",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "9493f3cb-4148-42a1-88b8-ccf75c4d175b-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "Thumb rule",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "9493f3cb-4148-42a1-88b8-ccf75c4d175b-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "9493f3cb-4148-42a1-88b8-ccf75c4d175b-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144827,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "9493f3cb-4148-42a1-88b8-ccf75c4d175b",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 195,
+              "questions": [
+                {
+                  "body": "The can explodes when placed inside a current-conducting circular coil. Which of the following is probably responsible?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "strong magnetic field",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "0b5d686c-1994-486b-9c9e-622d6b6495e5-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "like magnetic fields",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "0b5d686c-1994-486b-9c9e-622d6b6495e5-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "heating of coil",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "0b5d686c-1994-486b-9c9e-622d6b6495e5-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "unlike magnetic fields",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "0b5d686c-1994-486b-9c9e-622d6b6495e5-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144829,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "0b5d686c-1994-486b-9c9e-622d6b6495e5",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Do It Yourself",
+      "type": "image",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/8Qr6jNlawBxhNaAWygXXARhOq-U\"",
+          "id": "s0N8t0qyzqQ",
+          "concept": [
+            "Symmetry in Mirror Images",
+            "Lines of Symmetry "
+          ],
+          "chapter": [
+            "Symmetry"
+          ],
+          "subject": "Mathematics",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/s0N8t0qyzqQ.png",
+            "publishedAt": "2019-09-24T15:04:21.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Line of symmetry",
+            "description": "Line of symmetry",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/s0N8t0qyzqQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/s0N8t0qyzqQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/s0N8t0qyzqQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/s0N8t0qyzqQ/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/s0N8t0qyzqQ/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Line of symmetry"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Line of symmetry",
+              "description": "Line of symmetry"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT2M35S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "id": "vTlvkXWzfXk",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/DBGS6GrkT-fqWYLcSMshpfqj9jY\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/vTlvkXWzfXk.png",
+            "publishedAt": "2014-10-11T19:01:12.000Z",
+            "channelId": "UCgBY0CuANpxTSUlIZw6_3Iw",
+            "title": "DIY Baking Soda & Vinegar Rocket! - Meet Me at the Reck",
+            "description": "Most fun thing in the world is to shoot something up into the air! Right? Andrew W.K. teaches Reckers how to make a Do-It-Yourself rocket that will blast your party into the next galaxy. Party on! Watch the entire season now! ► http://mker.tv/mmatrseries\nWatch the original episode ► http://goo.gl/8p7iMO\n\nBecome a Recker & SUBSCRIBE. ► http://goo.gl/sOh8CH\n#MeetMeAtTheReck\n\nWelcome to Cartoonium, the place to find all the best kids entertainment on YouTube!",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/vTlvkXWzfXk/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/vTlvkXWzfXk/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/vTlvkXWzfXk/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/vTlvkXWzfXk/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/vTlvkXWzfXk/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Cartoonium",
+            "tags": [
+              "Do It Yourself (Hobby)",
+              "Sodium Bicarbonate (Chemical Compound)",
+              "Vinegar (Ingredient)",
+              "Health (Industry)",
+              "Rocket",
+              "Firework",
+              "Fireworks",
+              "cartoonium",
+              "kids show",
+              "kids",
+              "childrens show",
+              "childrens programming",
+              "kids programming",
+              "Andrew W.K.",
+              "Meet Me at the Reck",
+              "adventure",
+              "Mike Meacham",
+              "Sasquatch",
+              "rockets",
+              "nasa",
+              "bottle rocket",
+              "Khan",
+              "Bobby Lee"
+            ],
+            "categoryId": "1",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "DIY Baking Soda & Vinegar Rocket! - Meet Me at the Reck",
+              "description": "Most fun thing in the world is to shoot something up into the air! Right? Andrew W.K. teaches Reckers how to make a Do-It-Yourself rocket that will blast your party into the next galaxy. Party on! Watch the entire season now! ► http://mker.tv/mmatrseries\nWatch the original episode ► http://goo.gl/8p7iMO\n\nBecome a Recker & SUBSCRIBE. ► http://goo.gl/sOh8CH\n#MeetMeAtTheReck\n\nWelcome to Cartoonium, the place to find all the best kids entertainment on YouTube!"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT1M44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Chemistry",
+          "chapter": [
+            "Acids",
+            "Bases",
+            "Salts"
+          ],
+          "concept": [
+            "Baking Soda",
+            "Preparation of Baking Soda",
+            "Uses of Baking Soda",
+            "Heating of Baking Soda"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 42,
+              "questions": [
+                {
+                  "body": "Carbonic acid is an intermediate product formed when baking soda interacts with vinegar. It later decomposes to liberate",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "carbon dioxide",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "c430961c-2f1e-4cc6-9c05-d63dd402515d-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "carbon monoxide",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "c430961c-2f1e-4cc6-9c05-d63dd402515d-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "carbon",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "c430961c-2f1e-4cc6-9c05-d63dd402515d-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "c430961c-2f1e-4cc6-9c05-d63dd402515d-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144796,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "c430961c-2f1e-4cc6-9c05-d63dd402515d",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 72,
+              "questions": [
+                {
+                  "body": "Vinegar is mildly ____ in nature.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "basic",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "15ddfa44-c2e1-443b-9b8f-a798764c03f8-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "acidic",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "15ddfa44-c2e1-443b-9b8f-a798764c03f8-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "alkaline",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "15ddfa44-c2e1-443b-9b8f-a798764c03f8-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "15ddfa44-c2e1-443b-9b8f-a798764c03f8-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144794,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "15ddfa44-c2e1-443b-9b8f-a798764c03f8",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "I18K2upEHLc",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/-SKhfKD-VR8WJqdEgW4k5TkZsew\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/I18K2upEHLc.png",
+            "publishedAt": "2014-03-25T15:17:39.000Z",
+            "channelId": "UC5VY0z4PsTMHeqgA4HdWZxQ",
+            "title": "The Sci Guys: Science at Home - SE2 - EP4: Red Cabbage pH Indicator - Acid Base Indicator",
+            "description": "Welcome to the fourth episode of season 2 of The Sci Guys. In this episode we will be creating a ph indicator (acid base indicator) using red cabbage. Then we will be mixing different solutions into our red cabbage pH indicator and watch how the colour changes based on the pH of the solution. We will show you how you can explore this topic at home with a bunch of simple household items and at the end you will have a red cabbage pH indicator (acid base indicator) that you can use to test a variety of solutions around your house.\n\nHelp support us to do more experiments by becoming a patron on patreon: http://www.patreon.com/thesciguys\n\nEquipment and Ingredients:\n    Red Cabbage (1 red cabbage leaf per 2 cups of distilled water)\n    Distilled Water\n    Lemon Juice\n    Vinegar\n    Baking Soda\n    Tap Water\n    Alka-Selzer Antacid Tablets\n    Multiple Small Glasses\n    Blender\n    Funnel\n    Coffee Filter\n    Bowl or Other Container\n    Goggles\n    Lab Coat or Apron\n    Gloves\n\nPrevious Episode: Homemade Petri Dish - https://www.youtube.com/watch?v=yY8STATjZ6U&list=PL7VnnL-CJ-z445Mha0p_TT7zmBSZ2jlFL&index=3\n\nNext Episode: Dyed Flowers for Mother's Day - https://www.youtube.com/watch?v=snFLPFW4QhE&list=PL7VnnL-CJ-z445Mha0p_TT7zmBSZ2jlFL&index=5\n\nIf you enjoyed the video remember to subscribe, comment and like us to show us you care.\nRemember to like us on Facebook: http://www.facebook.com/thesciguys\nFollow us on Twitter: http://www.twitter.com/thesciguys",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/I18K2upEHLc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/I18K2upEHLc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/I18K2upEHLc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/I18K2upEHLc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/I18K2upEHLc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "The Sci Guys",
+            "tags": [
+              "PH Indicator (Chemical Compound)",
+              "Acid (Chemical Compound)",
+              "The Sci Guys",
+              "Sci Guys",
+              "science",
+              "experiments",
+              "science at home",
+              "education",
+              "Acid Base Indicator",
+              "Red Cabbage (Organism Classification)",
+              "pH indicator",
+              "Base",
+              "Acid--base Reaction"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "The Sci Guys: Science at Home - SE2 - EP4: Red Cabbage pH Indicator - Acid Base Indicator",
+              "description": "Welcome to the fourth episode of season 2 of The Sci Guys. In this episode we will be creating a ph indicator (acid base indicator) using red cabbage. Then we will be mixing different solutions into our red cabbage pH indicator and watch how the colour changes based on the pH of the solution. We will show you how you can explore this topic at home with a bunch of simple household items and at the end you will have a red cabbage pH indicator (acid base indicator) that you can use to test a variety of solutions around your house.\n\nHelp support us to do more experiments by becoming a patron on patreon: http://www.patreon.com/thesciguys\n\nEquipment and Ingredients:\n    Red Cabbage (1 red cabbage leaf per 2 cups of distilled water)\n    Distilled Water\n    Lemon Juice\n    Vinegar\n    Baking Soda\n    Tap Water\n    Alka-Selzer Antacid Tablets\n    Multiple Small Glasses\n    Blender\n    Funnel\n    Coffee Filter\n    Bowl or Other Container\n    Goggles\n    Lab Coat or Apron\n    Gloves\n\nPrevious Episode: Homemade Petri Dish - https://www.youtube.com/watch?v=yY8STATjZ6U&list=PL7VnnL-CJ-z445Mha0p_TT7zmBSZ2jlFL&index=3\n\nNext Episode: Dyed Flowers for Mother's Day - https://www.youtube.com/watch?v=snFLPFW4QhE&list=PL7VnnL-CJ-z445Mha0p_TT7zmBSZ2jlFL&index=5\n\nIf you enjoyed the video remember to subscribe, comment and like us to show us you care.\nRemember to like us on Facebook: http://www.facebook.com/thesciguys\nFollow us on Twitter: http://www.twitter.com/thesciguys"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT6M23S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Chemistry",
+          "chapter": [
+            "Acids",
+            "Bases",
+            "Salts"
+          ],
+          "concept": [
+            "Importance of pH in Everyday Life"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 188,
+              "questions": [
+                {
+                  "body": "A sample changed the pH indicator to a slight blue color. Which of the following is true about this statement?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "The sample is an acid.",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "a9c688ea-02de-4139-88d7-0710a2e4c5e7-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "The sample is neutral.",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "a9c688ea-02de-4139-88d7-0710a2e4c5e7-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "The sample is a base.",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "a9c688ea-02de-4139-88d7-0710a2e4c5e7-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "a9c688ea-02de-4139-88d7-0710a2e4c5e7-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144804,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "a9c688ea-02de-4139-88d7-0710a2e4c5e7",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 209,
+              "questions": [
+                {
+                  "body": "An antacid tablet is dissolved in water. The pH of the solution is then measured as 5. Which of these is responsible?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "carbon dioxide",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "0fe14aeb-01c3-402a-9d79-a70681f8bf77-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "sulphur dioxide",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "0fe14aeb-01c3-402a-9d79-a70681f8bf77-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "hydrogen gas",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "0fe14aeb-01c3-402a-9d79-a70681f8bf77-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "ammonia",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "0fe14aeb-01c3-402a-9d79-a70681f8bf77-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144807,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "0fe14aeb-01c3-402a-9d79-a70681f8bf77",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 231,
+              "questions": [
+                {
+                  "body": "Lemon juice is acidic. When added to the pH indicator, the color will change to",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "green",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "a8b5e9ad-104b-4147-9054-76a969c08f5f-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "blue",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "a8b5e9ad-104b-4147-9054-76a969c08f5f-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "red",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "a8b5e9ad-104b-4147-9054-76a969c08f5f-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "purple",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "a8b5e9ad-104b-4147-9054-76a969c08f5f-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144805,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "a8b5e9ad-104b-4147-9054-76a969c08f5f",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 278,
+              "questions": [
+                {
+                  "body": "In aqueous solutions, $______$ release more hydroxide ions.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "acids",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "d7a27334-4dde-4250-a124-824e558ea41b-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "bases",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "d7a27334-4dde-4250-a124-824e558ea41b-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "salts",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "d7a27334-4dde-4250-a124-824e558ea41b-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "d7a27334-4dde-4250-a124-824e558ea41b-4",
+                      "correct": true
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144803,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "d7a27334-4dde-4250-a124-824e558ea41b",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 319,
+              "questions": [
+                {
+                  "body": "pH solution made from red cabbage turns green after adding a sample. Which of the following is probably responsible?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "citric acid",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "4f91e50d-b679-4102-9d45-dc1e5d4aebc0-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "ammonia",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "4f91e50d-b679-4102-9d45-dc1e5d4aebc0-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "tap water",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "4f91e50d-b679-4102-9d45-dc1e5d4aebc0-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "baking soda",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "4f91e50d-b679-4102-9d45-dc1e5d4aebc0-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144806,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "4f91e50d-b679-4102-9d45-dc1e5d4aebc0",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/XmaIyf4qUpbO_zvuIw1Y7sMgHG0\"",
+          "id": "Uiuct-2yAxA",
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/Uiuct-2yAxA.png",
+            "publishedAt": "2018-02-12T14:06:41.000Z",
+            "channelId": "UCGG78ZQr-Gv-JBRl22uv-cQ",
+            "title": "\"Photosynthesis\" experiment (How to make oxygen at home)",
+            "description": "For cool and safe experiments sign up to MEL Science here:  https://goo.gl/tZpTHs\n\nHere is an interesting and entertaining experiment that lies on the borderline of two sciences – chemistry and biology. You can easily repeat it at home and amaze your friends and family.\n\nReagents and equipment:\n\n* solution of baking soda (5 g/l);\n* water plant (in our case it is waterweed);\n* beaker;\n* funnel;\n* test tube;\n* match or splinter;\n* lamp.\n\nStep-by-step instructions\n\nPlace the water plant in the beaker, cover it with a funnel and fill the beaker with the salt solution, then place a test tube containing water in the funnel. Turn on a bright light and wait for around two to three hours. After the test tube fills completely, carefully remove it from the funnel and hold a smoldering splinter or match up to it. Watch the splinter burn.\n\nProcesses description\n\nPhotosynthesis is a complex chemical process in which light energy transforms into the energy of chemical bonds, or more simply it is a process in which carbon dioxide and water transform into organic substances and oxygen under the impact of light:\n\nСО₂ + Н₂О → Organic substances + О₂\n\nIt is easy to prove the presence of oxygen – just lower a smoldering splinter or match into the test tube, and it will immediately flare up, as oxygen is a gas that supports combustion.\n\nWhy the solution of baking soda is required: as the carbon dioxide in the air dissolves poorly in water, to increase its concentration we can use carbonates or bicarbonates, which by their nature are salts of carbonic acid (CO₂・H₂O).",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Uiuct-2yAxA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Uiuct-2yAxA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Uiuct-2yAxA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/Uiuct-2yAxA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/Uiuct-2yAxA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "MEL Science",
+            "tags": [
+              "MEL Science",
+              "MEL Chemistry",
+              "experiment",
+              "fun science experiments",
+              "cool science projects",
+              "chemistry lab",
+              "cool experiments",
+              "chemistry help",
+              "easy science experiments for kids",
+              "science experiments at home",
+              "fun experiments",
+              "cool chemical reactions",
+              "experiments to do at home",
+              "easy experiments",
+              "at home science experiments",
+              "amazing experiment",
+              "Photosynthesis"
+            ],
+            "categoryId": "28",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "\"Photosynthesis\" experiment (How to make oxygen at home)",
+              "description": "For cool and safe experiments sign up to MEL Science here:  https://goo.gl/tZpTHs\n\nHere is an in­ter­est­ing and en­ter­tain­ing ex­per­i­ment that lies on the bor­der­line of two sci­ences – chem­istry and bi­ol­o­gy. You can eas­i­ly re­peat it at home and amaze your friends and fam­i­ly.\n\nReagents and equip­ment:\n\n* so­lu­tion of bak­ing soda (5 g/l);\n* wa­ter plant (in our case it is wa­ter­weed);\n* beaker;\n* fun­nel;\n* test tube;\n* match or splin­ter;\n* lamp.\n\nStep-by-step in­struc­tions\n\nPlace the wa­ter plant in the beaker, cov­er it with a fun­nel and fill the beaker with the salt so­lu­tion, then place a test tube con­tain­ing wa­ter in the fun­nel. Turn on a bright light and wait for around two to three hours. Af­ter the test tube fills com­plete­ly, care­ful­ly re­move it from the fun­nel and hold a smol­der­ing splin­ter or match up to it. Watch the splin­ter burn.\n\nPro­cess­es de­scrip­tion\n\nPho­to­syn­the­sis is a com­plex chem­i­cal process in which light en­er­gy trans­forms into the en­er­gy of chem­i­cal bonds, or more sim­ply it is a process in which car­bon diox­ide and wa­ter trans­form into or­gan­ic sub­stances and oxy­gen un­der the im­pact of light:\n\nСО₂ + Н₂О → Or­gan­ic sub­stances + О₂\n\nIt is easy to prove the pres­ence of oxy­gen – just low­er a smol­der­ing splin­ter or match into the test tube, and it will im­me­di­ate­ly flare up, as oxy­gen is a gas that sup­ports com­bus­tion.\n\nWhy the so­lu­tion of bak­ing soda is re­quired: as the car­bon diox­ide in the air dis­solves poor­ly in wa­ter, to in­crease its con­cen­tra­tion we can use car­bon­ates or bi­car­bon­ates, which by their na­ture are salts of car­bon­ic acid (CO₂・H₂O)."
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT1M14S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          },
+          "subject": "Biology",
+          "chapter": [
+            "Life Processes"
+          ],
+          "concept": [
+            "Photosynthesis",
+            "Chlorophyll",
+            "Splitting of Water"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 25,
+              "questions": [
+                {
+                  "body": "Which of the following supplies carbon dioxide to the plant?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "Atmosphere",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "e88ff2f0-a721-4904-8e0e-6aaef1e2e14b-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "Sodium bicarbonate",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "e88ff2f0-a721-4904-8e0e-6aaef1e2e14b-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "Sodium carbonate",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "e88ff2f0-a721-4904-8e0e-6aaef1e2e14b-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "Potassium bicarbonate",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "e88ff2f0-a721-4904-8e0e-6aaef1e2e14b-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144819,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "e88ff2f0-a721-4904-8e0e-6aaef1e2e14b",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 69,
+              "questions": [
+                {
+                  "body": "The splint lights up in the presence of oxygen. This is because oxygen supports combustion. ",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "true",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "ea7c896e-e00a-4cd9-8105-74f93f2bcc44-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "false",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "ea7c896e-e00a-4cd9-8105-74f93f2bcc44-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "true or false",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "ea7c896e-e00a-4cd9-8105-74f93f2bcc44-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "Neither one",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "ea7c896e-e00a-4cd9-8105-74f93f2bcc44-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144820,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "ea7c896e-e00a-4cd9-8105-74f93f2bcc44",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "In Real Life",
+      "type": "image",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/7WcZoZStKASUTTK1PCJdICO24jM\"",
+          "id": "fMzYiQLBLnA",
+          "concept": [
+            "Ganga Action Plan"
+          ],
+          "chapter": [
+            "Microbes in Human Welfare"
+          ],
+          "subject": "Biology",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/fMzYiQLBLnA.png",
+            "publishedAt": "2019-09-24T14:23:11.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Ganga pollution",
+            "description": "Ganga pollution",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/fMzYiQLBLnA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/fMzYiQLBLnA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/fMzYiQLBLnA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/fMzYiQLBLnA/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/fMzYiQLBLnA/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Ganga pollution"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Ganga pollution",
+              "description": "Ganga pollution"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT2M27S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/tPhYScmkqceobOpwxk47z0_POZ0\"",
+          "id": "cxh8q3_yOcM",
+          "concept": [
+            "Lightning",
+            "Dos during Lightning outside the House",
+            "Dos during Lightning inside the House",
+            "Don'ts during Lightning outside the House",
+            "Don'ts during Lightning inside the House",
+            "Lightning Conductors",
+            "Unsafe Place during Lightning",
+            "Safe Place during Lightning"
+          ],
+          "chapter": [
+            "Some Natural Phenomenon"
+          ],
+          "subject": "Physics",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/cxh8q3_yOcM.png",
+            "publishedAt": "2019-09-24T14:33:15.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Lightning",
+            "description": "Lightning",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/cxh8q3_yOcM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/cxh8q3_yOcM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/cxh8q3_yOcM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/cxh8q3_yOcM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/cxh8q3_yOcM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Lightning"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Lightning",
+              "description": "Lightning"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT2M21S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/8lnvUWC-9C7-5N7ISKSM5NIbA2U\"",
+          "id": "GXRouroc_ZY",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/GXRouroc_ZY.png",
+            "publishedAt": "2016-11-14T22:00:00.000Z",
+            "channelId": "UCZYTClx2T1of7BRZ86-8fow",
+            "title": "What's the Difference Between Baking Powder and Baking Soda?",
+            "description": "Powder vs. Soda: an important distinction!\n\nHosted by: Hank Green\n\nLearn more about sourdough: https://www.youtube.com/watch?v=Ug5RlajQ7Ds\n\nWant your own SciShow apron?:\nhttps://store.dftba.com/products/scishow-apron\n\n----------\nSupport SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow\n----------\nDooblydoo thanks go to the following Patreon supporters -- we couldn't make SciShow without them! Shout out to James Harshaw, Kevin Bealer, Mark Terrio-Cameron, Patrick Merrithew, Accalia Elementia, Charles Southerland, Fatima Iqbal, Benny, Kyle Anderson, Tim Curwick, Will and Sonja Marple, Philippe von Bergen, Bryce Daifuku, Chris Peters, Kathy Philip, Patrick D. Ashmore, Charles George, Bader AlGhamdi.\n----------\nLike SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishow\nTwitter: http://www.twitter.com/scishow\nTumblr: http://scishow.tumblr.com\nInstagram: http://instagram.com/thescishow\n----------\nSources:\nhttps://news.ncsu.edu/2014/05/baking-soda-powder/\nhttp://www.seriouseats.com/2015/12/cookie-science-baking-powder.html\nhttps://www.acs.org/content/acs/en/education/whatischemistry/landmarks/bakingpowder.html\nhttps://www.britannica.com/science/tartaric-acid\nhttp://www.epicurious.com/ingredients/why-aluminum-free-baking-powder-is-better-article\nhttp://www.ansac.com/products/about-soda-ash/\nhttps://www.google.com/patents/US2532281 \n\nImage Sources:\nhttps://commons.wikimedia.org/wiki/File:Fucus_serratus2.jpg\nhttps://commons.wikimedia.org/wiki/File:Salt_shaker_on_white_background.jpg\nhttps://commons.wikimedia.org/wiki/File:Eben_Norton_Horsford.jpg",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/GXRouroc_ZY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/GXRouroc_ZY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/GXRouroc_ZY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/GXRouroc_ZY/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/GXRouroc_ZY/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "SciShow",
+            "tags": [
+              "SciShow",
+              "science",
+              "Hank",
+              "Green",
+              "education",
+              "learn",
+              "baking powder",
+              "baking soda",
+              "bread",
+              "cake",
+              "biscuit",
+              "baking",
+              "sodium bicarbonate",
+              "leavening agents",
+              "fermentation",
+              "carbon dioxide",
+              "dough",
+              "cooking",
+              "chemistry",
+              "thanksgiving",
+              "cookies",
+              "flour",
+              "sugar",
+              "yeast",
+              "soda ash",
+              "sodium chloride",
+              "lactic acid",
+              "potassium hydrogen tartrate",
+              "cream of tartar",
+              "Eben Horsford",
+              "monocalcium phosphate",
+              "Horsford's Bread Preparation",
+              "double-acting",
+              "acid",
+              "CDC",
+              "aluminum",
+              "sodium acid pyrophosphate",
+              "buttermilk",
+              "vinegar",
+              "sour milk"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "defaultLanguage": "en",
+            "localized": {
+              "title": "What's the Difference Between Baking Powder and Baking Soda?",
+              "description": "Powder vs. Soda: an important distinction!\n\nHosted by: Hank Green\n\nLearn more about sourdough: https://www.youtube.com/watch?v=Ug5RlajQ7Ds\n\nWant your own SciShow apron?:\nhttps://store.dftba.com/products/scishow-apron\n\n----------\nSupport SciShow by becoming a patron on Patreon: https://www.patreon.com/scishow\n----------\nDooblydoo thanks go to the following Patreon supporters -- we couldn't make SciShow without them! Shout out to James Harshaw, Kevin Bealer, Mark Terrio-Cameron, Patrick Merrithew, Accalia Elementia, Charles Southerland, Fatima Iqbal, Benny, Kyle Anderson, Tim Curwick, Will and Sonja Marple, Philippe von Bergen, Bryce Daifuku, Chris Peters, Kathy Philip, Patrick D. Ashmore, Charles George, Bader AlGhamdi.\n----------\nLike SciShow? Want to help support us, and also get things to put on your walls, cover your torso and hold your liquids? Check out our awesome products over at DFTBA Records: http://dftba.com/scishow\n----------\nLooking for SciShow elsewhere on the internet?\nFacebook: http://www.facebook.com/scishow\nTwitter: http://www.twitter.com/scishow\nTumblr: http://scishow.tumblr.com\nInstagram: http://instagram.com/thescishow\n----------\nSources:\nhttps://news.ncsu.edu/2014/05/baking-soda-powder/\nhttp://www.seriouseats.com/2015/12/cookie-science-baking-powder.html\nhttps://www.acs.org/content/acs/en/education/whatischemistry/landmarks/bakingpowder.html\nhttps://www.britannica.com/science/tartaric-acid\nhttp://www.epicurious.com/ingredients/why-aluminum-free-baking-powder-is-better-article\nhttp://www.ansac.com/products/about-soda-ash/\nhttps://www.google.com/patents/US2532281 \n\nImage Sources:\nhttps://commons.wikimedia.org/wiki/File:Fucus_serratus2.jpg\nhttps://commons.wikimedia.org/wiki/File:Salt_shaker_on_white_background.jpg\nhttps://commons.wikimedia.org/wiki/File:Eben_Norton_Horsford.jpg"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT5M8S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Chemistry",
+          "chapter": [
+            "Acids",
+            "Bases",
+            "Salts"
+          ],
+          "concept": [
+            "Baking Soda",
+            "Preparation of Baking Soda",
+            "Uses of Baking Soda",
+            "Heating of Baking Soda"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 53,
+              "questions": [
+                {
+                  "body": "Which of the following organism ferments the dough?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "bacteria",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "278936f7-ab39-4a9e-9110-52aef0951012-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "yeast",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "278936f7-ab39-4a9e-9110-52aef0951012-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "virus",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "278936f7-ab39-4a9e-9110-52aef0951012-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "mold",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "278936f7-ab39-4a9e-9110-52aef0951012-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144798,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "278936f7-ab39-4a9e-9110-52aef0951012",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 147,
+              "questions": [
+                {
+                  "body": "The chemical by-product formed during wine production is $_____$.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "carbon monoxide",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "932cfaa8-b1ab-4d81-9a26-7583cbcc1be8-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "sodium chloride",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "932cfaa8-b1ab-4d81-9a26-7583cbcc1be8-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "cream of tartar",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "932cfaa8-b1ab-4d81-9a26-7583cbcc1be8-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "potassium carbonate",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "932cfaa8-b1ab-4d81-9a26-7583cbcc1be8-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144801,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "932cfaa8-b1ab-4d81-9a26-7583cbcc1be8",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 186,
+              "questions": [
+                {
+                  "body": "$_______$ were the first source of Monocalcium phosphate.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "mines",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "2327b5e6-6c84-4e9f-a55a-301377ee5270-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "beef bones",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "2327b5e6-6c84-4e9f-a55a-301377ee5270-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "seaweed",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "2327b5e6-6c84-4e9f-a55a-301377ee5270-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "2327b5e6-6c84-4e9f-a55a-301377ee5270-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144800,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "2327b5e6-6c84-4e9f-a55a-301377ee5270",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 200,
+              "questions": [
+                {
+                  "body": "Corn starch used to prepare baking powder from baking soda keeps the product dry and prevents early reactions.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "true",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "c86d1b4a-5991-4f98-a543-6669bfe5f2cc-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "false",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "c86d1b4a-5991-4f98-a543-6669bfe5f2cc-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "Neither one",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "c86d1b4a-5991-4f98-a543-6669bfe5f2cc-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "True or false",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "c86d1b4a-5991-4f98-a543-6669bfe5f2cc-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144799,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "c86d1b4a-5991-4f98-a543-6669bfe5f2cc",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 258,
+              "questions": [
+                {
+                  "body": "Sodium bicarbonate when mixed acids and corn starch yields $_______$.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "Baking powder",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "e1a7e71a-5534-4626-b254-6fe811ca04e9-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "Baking soda",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "e1a7e71a-5534-4626-b254-6fe811ca04e9-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "Soda powder",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "e1a7e71a-5534-4626-b254-6fe811ca04e9-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "e1a7e71a-5534-4626-b254-6fe811ca04e9-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144802,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "e1a7e71a-5534-4626-b254-6fe811ca04e9",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "r3hirzlWILM",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/1bjTADYjYZ43hdqsizddU9MLr38\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/r3hirzlWILM.png",
+            "publishedAt": "2018-05-09T11:30:02.000Z",
+            "channelId": "UCiTjCIT_9EXV1Wp1cY0zaUA",
+            "title": "pH in Everyday Life - CBSE 10",
+            "description": "The problem of Stomach Acidity, Erosion of Tooth Enamel and the Sting of a Honey bee have one thing in common! And that's Acid! That means everything around and inside us either falls on the Lower or Higher side of the pH scale. Watch this video to know about the everyday examples where we deal with pH of substances. To access all videos related to Acids, Bases and Salts for free, visit our website here: https://DontMemorise.com\n\nDon’t Memorise brings learning to life through its captivating FREE educational videos. To Know More, visit https://DontMemorise.com\n\nNew videos every week. To stay updated, subscribe to our YouTube channel : http://bit.ly/DontMemoriseYouTube\n\nRegister on our website to gain access to all videos and quizzes:\nhttp://bit.ly/DontMemoriseRegister\n\nSubscribe to our Newsletter: http://bit.ly/DontMemoriseNewsLetter\n\nJoin us on Facebook: http://bit.ly/DontMemoriseFacebook\n\nFollow us on Twitter: https://twitter.com/dontmemorise\n\nFollow us : http://bit.ly/DontMemoriseBlog",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/r3hirzlWILM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/r3hirzlWILM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/r3hirzlWILM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/r3hirzlWILM/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/r3hirzlWILM/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Don't Memorise",
+            "tags": [
+              "Acid bases and salts",
+              "Acid bases and salts class 10",
+              "Acid bases and salts class 10 ncert",
+              "Acid bases and salts class 10 cbse",
+              "pH in everyday life",
+              "pH in everyday life and its importance"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "pH in Everyday Life - CBSE 10",
+              "description": "The problem of Stomach Acidity, Erosion of Tooth Enamel and the Sting of a Honey bee have one thing in common! And that's Acid! That means everything around and inside us either falls on the Lower or Higher side of the pH scale. Watch this video to know about the everyday examples where we deal with pH of substances. To access all videos related to Acids, Bases and Salts for free, visit our website here: https://DontMemorise.com\n\nDon’t Memorise brings learning to life through its captivating FREE educational videos. To Know More, visit https://DontMemorise.com\n\nNew videos every week. To stay updated, subscribe to our YouTube channel : http://bit.ly/DontMemoriseYouTube\n\nRegister on our website to gain access to all videos and quizzes:\nhttp://bit.ly/DontMemoriseRegister\n\nSubscribe to our Newsletter: http://bit.ly/DontMemoriseNewsLetter\n\nJoin us on Facebook: http://bit.ly/DontMemoriseFacebook\n\nFollow us on Twitter: https://twitter.com/dontmemorise\n\nFollow us : http://bit.ly/DontMemoriseBlog"
+            },
+            "defaultAudioLanguage": "en",
+            "defaultLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT3M49S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Chemistry",
+          "chapter": [
+            "Acids",
+            "Bases",
+            "Salts"
+          ],
+          "concept": [
+            "Importance of pH in Everyday Life",
+            "Survival of Aquatic Life",
+            "Importance of pH in Our Digestive System",
+            "Changes in pH As The Cause of Tooth Decay",
+            "Importance of pH for Growth of Plants",
+            "Importance of pH for Self Defence of Animals And Plants"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 96,
+              "questions": [
+                {
+                  "body": "Excess production of HCl in the stomach causes ulcers. This can be prevented by taking antacids.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "False",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "c77ff1d1-92d3-46d5-a440-edc5eca91596-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "True",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "c77ff1d1-92d3-46d5-a440-edc5eca91596-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "True or False",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "c77ff1d1-92d3-46d5-a440-edc5eca91596-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "Neither one",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "c77ff1d1-92d3-46d5-a440-edc5eca91596-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144809,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "c77ff1d1-92d3-46d5-a440-edc5eca91596",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 112,
+              "questions": [
+                {
+                  "body": "Magnesium hydroxide, a common antacid, is a mild",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "acid",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "132c363e-1e21-497a-8a7e-aa1627161a2d-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "base",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "132c363e-1e21-497a-8a7e-aa1627161a2d-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "salt",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "132c363e-1e21-497a-8a7e-aa1627161a2d-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "None of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "132c363e-1e21-497a-8a7e-aa1627161a2d-4",
+                      "correct": true
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144810,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "132c363e-1e21-497a-8a7e-aa1627161a2d",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 149,
+              "questions": [
+                {
+                  "body": "Tooth enamel corrodes when the pH of the mouth falls below $_____$.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": 7,
+                      "position": 1,
+                      "explanation": "",
+                      "code": "a70bd54c-e5cf-45c2-9562-b4a12cb10fd7-1",
+                      "correct": false
+                    },
+                    {
+                      "body": 6.5,
+                      "position": 2,
+                      "explanation": "",
+                      "code": "a70bd54c-e5cf-45c2-9562-b4a12cb10fd7-2",
+                      "correct": false
+                    },
+                    {
+                      "body": 6,
+                      "position": 3,
+                      "explanation": "",
+                      "code": "a70bd54c-e5cf-45c2-9562-b4a12cb10fd7-3",
+                      "correct": false
+                    },
+                    {
+                      "body": 5.5,
+                      "position": 4,
+                      "explanation": "",
+                      "code": "a70bd54c-e5cf-45c2-9562-b4a12cb10fd7-4",
+                      "correct": true
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144811,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "a70bd54c-e5cf-45c2-9562-b4a12cb10fd7",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "sQK3Yr4Sc_k",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/U5pS9VhyMdstYZNKMBQZTdOq480\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/sQK3Yr4Sc_k.png",
+            "publishedAt": "2012-03-19T23:57:59.000Z",
+            "channelId": "UCX6b17PVsYBQ0ip5gyeme-Q",
+            "title": "Photosynthesis: Crash Course Biology #8",
+            "description": "Hank explains the extremely complex series of reactions whereby plants feed themselves on sunlight, carbon dioxide and water, and also create some by products we're pretty fond of as well.\n\nCrash Course Biology is now available on DVD! http://dftba.com/product/1av/CrashCourse-Biology-The-Complete-Series-DVD-Set\n\nLike CrashCourse on Facebook: http://www.facebook.com/YouTubeCrashCourse\nFollow CrashCourse on Twitter: http://www.twitter.com/TheCrashCourse\n\nThis video uses sounds from Freesound.org, a list of which can be found, along with the CITATIONS for this episode, in the Google document here: http://dft.ba/-29ai\n\nTable of Contents:\n1) Water 1:16\n2) Carbon Dioxide 1:32\n3) Sunlight/Photons 1:43\n4) Chloroplasts 1:57\n5) Light Reaction/Light-Dependent 2:42\na. Photosystem II 3:33\nb. Cytochrome Complex 5:54\nc. ATP Synthase 6:16\nd. Photosystem I 7:06\n6) Dark Reactions/Light-Independent 7:55\na. Phase 1 - Carbon Fixation 8:50\nb. Phase 2 - Reduction 11:31\nc. Phase 3 - Regeneration 12:02\n\ntags: photosynthesis, biology, science, crashcourse, plants, light, calvin cycle, respiration, water, carbon dioxide, sunlight, xylem, time lapse, stomata, chlorophyll, photon, plastid, chloroplast, oxygen, thylakoid, grana, lumen, stroma, chemistry, fusion, photoexcitation, photosystem II, electron transport chain, protein, cytochrome complex, carbon fixation, rubisco, phosphoglycolate, reduction, regeneration, glyceraldehyde 3-phosphate, G3P, glucose, cellulose, starch, life Support CrashCourse on Patreon: https://www.patreon.com/crashcourse",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/sQK3Yr4Sc_k/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/sQK3Yr4Sc_k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/sQK3Yr4Sc_k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/sQK3Yr4Sc_k/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/sQK3Yr4Sc_k/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "CrashCourse",
+            "tags": [
+              "photosynthesis",
+              "biology",
+              "science",
+              "crashcourse",
+              "plants",
+              "light",
+              "calvin cycle",
+              "respiration",
+              "water",
+              "carbon dioxide",
+              "sunlight",
+              "xylem",
+              "time lapse",
+              "stomata",
+              "chlorophyll",
+              "photon",
+              "plastid",
+              "chloroplast",
+              "oxygen",
+              "thylakoid",
+              "grana",
+              "lumen",
+              "stroma",
+              "chemistry",
+              "fusion",
+              "photoexcitation",
+              "photosystem II",
+              "electron transport chain",
+              "protein",
+              "cytochrome complex",
+              "carbon fixation",
+              "rubisco",
+              "phosphoglycolate",
+              "reduction",
+              "regeneration",
+              "glyceraldehyde 3-phosphate",
+              "G3P",
+              "glucose",
+              "cellulose",
+              "starch",
+              "life"
+            ],
+            "categoryId": "27",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Photosynthesis: Crash Course Biology #8",
+              "description": "Hank explains the extremely complex series of reactions whereby plants feed themselves on sunlight, carbon dioxide and water, and also create some by products we're pretty fond of as well.\n\nCrash Course Biology is now available on DVD! http://dftba.com/product/1av/CrashCourse-Biology-The-Complete-Series-DVD-Set\n\nLike CrashCourse on Facebook: http://www.facebook.com/YouTubeCrashCourse\nFollow CrashCourse on Twitter: http://www.twitter.com/TheCrashCourse\n\nThis video uses sounds from Freesound.org, a list of which can be found, along with the CITATIONS for this episode, in the Google document here: http://dft.ba/-29ai\n\nTable of Contents:\n1) Water 1:16\n2) Carbon Dioxide 1:32\n3) Sunlight/Photons 1:43\n4) Chloroplasts 1:57\n5) Light Reaction/Light-Dependent 2:42\na. Photosystem II 3:33\nb. Cytochrome Complex 5:54\nc. ATP Synthase 6:16\nd. Photosystem I 7:06\n6) Dark Reactions/Light-Independent 7:55\na. Phase 1 - Carbon Fixation 8:50\nb. Phase 2 - Reduction 11:31\nc. Phase 3 - Regeneration 12:02\n\ntags: photosynthesis, biology, science, crashcourse, plants, light, calvin cycle, respiration, water, carbon dioxide, sunlight, xylem, time lapse, stomata, chlorophyll, photon, plastid, chloroplast, oxygen, thylakoid, grana, lumen, stroma, chemistry, fusion, photoexcitation, photosystem II, electron transport chain, protein, cytochrome complex, carbon fixation, rubisco, phosphoglycolate, reduction, regeneration, glyceraldehyde 3-phosphate, G3P, glucose, cellulose, starch, life Support CrashCourse on Patreon: https://www.patreon.com/crashcourse"
+            },
+            "defaultAudioLanguage": "en"
+          },
+          "contentDetails": {
+            "duration": "PT13M15S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "true",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Biology",
+          "chapter": [
+            "Life Processes"
+          ],
+          "concept": [
+            "Photosynthesis",
+            "Chlorophyll",
+            "Splitting of Water"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 99,
+              "questions": [
+                {
+                  "body": "The xylem in plants are responsible for ",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "transport of oxygen",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "c6889d7b-5bea-4ac3-b6c0-269488458194-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "transport of food",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "c6889d7b-5bea-4ac3-b6c0-269488458194-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "transport of amino acids",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "c6889d7b-5bea-4ac3-b6c0-269488458194-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "transport of water",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "c6889d7b-5bea-4ac3-b6c0-269488458194-4",
+                      "correct": true
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144815,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "c6889d7b-5bea-4ac3-b6c0-269488458194",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 142,
+              "questions": [
+                {
+                  "body": "The matrix of the chloroplast is ",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "grana",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "53f50cf6-1818-4bd2-b162-e910fbe51fc1-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "stroma",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "53f50cf6-1818-4bd2-b162-e910fbe51fc1-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "thylakoid",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "53f50cf6-1818-4bd2-b162-e910fbe51fc1-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "lamellae",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "53f50cf6-1818-4bd2-b162-e910fbe51fc1-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144816,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "53f50cf6-1818-4bd2-b162-e910fbe51fc1",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 178,
+              "questions": [
+                {
+                  "body": "Photosynthesis 1 is a light-dependent reaction.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "False",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "2bbbbbfd-6eac-4445-8809-a1db6d752105-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "True",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "2bbbbbfd-6eac-4445-8809-a1db6d752105-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "True or False",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "2bbbbbfd-6eac-4445-8809-a1db6d752105-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "Neither one",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "2bbbbbfd-6eac-4445-8809-a1db6d752105-4",
+                      "correct": true
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144817,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "2bbbbbfd-6eac-4445-8809-a1db6d752105",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 364,
+              "questions": [
+                {
+                  "body": "Which the following is true about ATP synthase?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "It creates ADP from ATP",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "caf0686f-efa5-44d9-9b21-8b5d687d805e-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "It is present inside thyllakoid membrane",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "caf0686f-efa5-44d9-9b21-8b5d687d805e-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "It converts ADP into ATP",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "caf0686f-efa5-44d9-9b21-8b5d687d805e-3",
+                      "correct": true
+                    },
+                    {
+                      "body": "Transports protons outside thyllakoid membrane",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "caf0686f-efa5-44d9-9b21-8b5d687d805e-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144818,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "caf0686f-efa5-44d9-9b21-8b5d687d805e",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "1MWoPKlAXx4",
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/AeINW-yTMeWoKM4RqTC_JO34yt4\"",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/1MWoPKlAXx4.png",
+            "publishedAt": "2014-09-04T18:05:34.000Z",
+            "channelId": "UCCj956IF62FbT7Gouszaj9w",
+            "title": "How foxes use magnetic fields to catch prey - The Wonder of Animals: Episode 5 Preview - BBC Four",
+            "description": "Subscribe and 🔔 to OFFICIAL BBC YouTube 👉 https://bit.ly/2IXqEIn\nStream original BBC programmes FIRST on BBC iPlayer 👉 https://bbc.in/2J18jYJ\n\nProgramme website: http://www.bbc.co.uk/programmes/b04gvbdr A fox catches its prey using more than pinpoint hearing and an accurate pounce.\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the 'Are all programmes that are broadcast available on BBC iPlayer?' FAQ 👉 https://bbc.in/2m8ks6v.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1MWoPKlAXx4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1MWoPKlAXx4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1MWoPKlAXx4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/1MWoPKlAXx4/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/1MWoPKlAXx4/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "BBC",
+            "tags": [
+              "fox",
+              "foxes",
+              "pounce",
+              "pouncing",
+              "jump",
+              "jumping",
+              "magnetic field",
+              "magnetism",
+              "wonder of animals",
+              "animals",
+              "bbc wonder of animals",
+              "bbc2",
+              "bbc 2",
+              "bbc two",
+              "ep5",
+              "episode 5"
+            ],
+            "categoryId": "15",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "How foxes use magnetic fields to catch prey - The Wonder of Animals: Episode 5 Preview - BBC Four",
+              "description": "Subscribe and 🔔 to OFFICIAL BBC YouTube 👉 https://bit.ly/2IXqEIn\nStream original BBC programmes FIRST on BBC iPlayer 👉 https://bbc.in/2J18jYJ\n\nProgramme website: http://www.bbc.co.uk/programmes/b04gvbdr A fox catches its prey using more than pinpoint hearing and an accurate pounce.\n\n#bbc\nAll our TV channels and S4C are available to watch live through BBC iPlayer, although some programmes may not be available to stream online due to rights. If you would like to read more on what types of programmes are available to watch live, check the 'Are all programmes that are broadcast available on BBC iPlayer?' FAQ 👉 https://bbc.in/2m8ks6v."
+            },
+            "defaultAudioLanguage": "en-GB"
+          },
+          "contentDetails": {
+            "duration": "PT3M13S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": true,
+            "projection": "rectangular"
+          },
+          "subject": "Physics",
+          "chapter": [
+            "Magnetic effects of electric current"
+          ],
+          "concept": [
+            "Magnetic Field",
+            "Compass Needle",
+            "North Seeking Pole",
+            "South Seeking Pole",
+            "Magnetic Field Lines",
+            "Properties of Magnetic Field Lines"
+          ],
+          "grade": "10th CBSE",
+          "annotations": [
+            {
+              "annotation_point": 47,
+              "questions": [
+                {
+                  "body": "How far can the red fox rotate their ears?",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": 180,
+                      "position": 1,
+                      "explanation": "",
+                      "code": "d50c8c05-1f39-4f24-953f-ba640e83a745-1",
+                      "correct": false
+                    },
+                    {
+                      "body": 120,
+                      "position": 2,
+                      "explanation": "",
+                      "code": "d50c8c05-1f39-4f24-953f-ba640e83a745-2",
+                      "correct": false
+                    },
+                    {
+                      "body": 150,
+                      "position": 3,
+                      "explanation": "",
+                      "code": "d50c8c05-1f39-4f24-953f-ba640e83a745-3",
+                      "correct": true
+                    },
+                    {
+                      "body": 240,
+                      "position": 4,
+                      "explanation": "",
+                      "code": "d50c8c05-1f39-4f24-953f-ba640e83a745-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144824,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "d50c8c05-1f39-4f24-953f-ba640e83a745",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 136,
+              "questions": [
+                {
+                  "body": "The red fox spots prey when the angle of sound hitting its ears is",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "greater than slope of earth's magnetic field",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "d1c7bf01-63c2-4f18-8396-2ac2f7ce7ecc-1",
+                      "correct": false
+                    },
+                    {
+                      "body": "equal to the slope of the earth's magnetic field",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "d1c7bf01-63c2-4f18-8396-2ac2f7ce7ecc-2",
+                      "correct": true
+                    },
+                    {
+                      "body": "less than earth's magnetic field",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "d1c7bf01-63c2-4f18-8396-2ac2f7ce7ecc-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "none of the above",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "d1c7bf01-63c2-4f18-8396-2ac2f7ce7ecc-3",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144825,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "d1c7bf01-63c2-4f18-8396-2ac2f7ce7ecc",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            },
+            {
+              "annotation_point": 176,
+              "questions": [
+                {
+                  "body": "Cryptochrome present in eyes helps the fox to sense earth's magnetic field.",
+                  "chapter": null,
+                  "video_url": null,
+                  "locale": "en",
+                  "explanation": "",
+                  "answers": [
+                    {
+                      "body": "true",
+                      "position": 1,
+                      "explanation": "",
+                      "code": "030e57cf-6780-4eac-8033-e30b380c047d-1",
+                      "correct": true
+                    },
+                    {
+                      "body": "false",
+                      "position": 2,
+                      "explanation": "",
+                      "code": "030e57cf-6780-4eac-8033-e30b380c047d-2",
+                      "correct": false
+                    },
+                    {
+                      "body": "true or false",
+                      "position": 3,
+                      "explanation": "",
+                      "code": "030e57cf-6780-4eac-8033-e30b380c047d-3",
+                      "correct": false
+                    },
+                    {
+                      "body": "Neither one",
+                      "position": 4,
+                      "explanation": "",
+                      "code": "030e57cf-6780-4eac-8033-e30b380c047d-4",
+                      "correct": false
+                    }
+                  ],
+                  "difficulty": 2,
+                  "purpose": "Practice",
+                  "id": 144826,
+                  "hints": null,
+                  "category": "Single Choice",
+                  "ideal_time": 60,
+                  "question_code": "030e57cf-6780-4eac-8033-e30b380c047d",
+                  "version": 19,
+                  "tips": []
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Experiments",
+      "type": "image",
+      "items": [
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/RBCwwCfxFlEcacpvCDKPmOY_U1U\"",
+          "id": "ubPARY63t34",
+          "concept": [
+            "Convection",
+            "Transfer of Heat by Convection in Air"
+          ],
+          "chapter": [
+            "Heat"
+          ],
+          "subject": "Physics",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/ubPARY63t34.png",
+            "publishedAt": "2019-09-24T15:08:08.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Teabag lanterns",
+            "description": "Teabag lanterns",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ubPARY63t34/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ubPARY63t34/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ubPARY63t34/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/ubPARY63t34/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/ubPARY63t34/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Teabag lanterns"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Teabag lanterns",
+              "description": "Teabag lanterns"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT2M17S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/5U-zfhNjkfqj_LoQNwt91HyXrc4\"",
+          "id": "Ukk-7pJxNSc",
+          "concept": [
+            "Separation of Mixture of Two Immiscible Liquids",
+            "Separation of Components of a Mixture"
+          ],
+          "chapter": [
+            "Is Matter Around Us Pure?"
+          ],
+          "subject": "Chemistry",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/Ukk-7pJxNSc.png",
+            "publishedAt": "2019-09-24T14:49:45.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Lava Lamp",
+            "description": "Lava Lamp",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Ukk-7pJxNSc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Ukk-7pJxNSc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Ukk-7pJxNSc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/Ukk-7pJxNSc/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/Ukk-7pJxNSc/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Lava Lamp"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Lava Lamp",
+              "description": "Lava Lamp"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT3M44S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        },
+        {
+          "kind": "youtube#video",
+          "etag": "\"p4VTdlkQv3HQeTEaXgvLePAydmU/JDZYpdvfDZdKlaVAor3Pv1I64gI\"",
+          "id": "Z4bDsbuJI70",
+          "concept": [
+            "Copper with Oxygen as a Redox Reaction"
+          ],
+          "chapter": [
+            "Chemical Reactions and Equations"
+          ],
+          "subject": "Chemistry",
+          "grade": "10th CBSE",
+          "snippet": {
+            "thumb_image": "s3://s3.amazonaws.com/embibe-offline-test-data/video_online/vertical/Z4bDsbuJI70.png",
+            "publishedAt": "2019-09-24T15:01:43.000Z",
+            "channelId": "UCf2SgoXNdJPlzatbAx6RH7w",
+            "title": "Invisible ink  DIY",
+            "description": "Invisible ink  DIY",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Z4bDsbuJI70/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Z4bDsbuJI70/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Z4bDsbuJI70/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              },
+              "standard": {
+                "url": "https://i.ytimg.com/vi/Z4bDsbuJI70/sddefault.jpg",
+                "width": 640,
+                "height": 480
+              },
+              "maxres": {
+                "url": "https://i.ytimg.com/vi/Z4bDsbuJI70/maxresdefault.jpg",
+                "width": 1280,
+                "height": 720
+              }
+            },
+            "channelTitle": "Devices Embibe",
+            "tags": [
+              "Invisible ink DIY"
+            ],
+            "categoryId": "22",
+            "liveBroadcastContent": "none",
+            "localized": {
+              "title": "Invisible ink  DIY",
+              "description": "Invisible ink  DIY"
+            }
+          },
+          "contentDetails": {
+            "duration": "PT3M9S",
+            "dimension": "2d",
+            "definition": "hd",
+            "caption": "false",
+            "licensedContent": false,
+            "projection": "rectangular"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Learning Videos",
+      "type": "image",
+      "items": [
+        {
+          "contentDetails": {
+            "duration": "PT5M04S"
+          },
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/habitats.png",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/habitats.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/habitats.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/habitats.png"
+              }
+            },
+            "title": "Different Habitats",
+            "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/Videos/habitats.mp4",
+            "description": "Habitat is an ecological or environmental area that is inhabited by a particular species of animal, plant, or other type of organism. It is the natural environment in which an organism lives, or the physical environment that surrounds a species population."
+          }
+        },
+        {
+          "contentDetails": {
+            "duration": "PT4M41S"
+          },
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/heart-simulation.png",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/heart-simulation.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/heart-simulation.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/heart-simulation.png"
+              }
+            },
+            "title": "Respiration",
+            "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/Videos/respiration.mp4",
+            "description": "A process in living organisms involving the production of energy, typically with the intake of oxygen and the release of carbon dioxide from the oxidation of complex organic substances."
+          }
+        },
+        {
+          "contentDetails": {
+            "duration": "PT2M57S"
+          },
+          "snippet": {
+            "thumb_image": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/thrust.png",
+            "thumbnails": {
+              "default": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/thrust.png"
+              },
+              "high": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/thrust.png"
+              },
+              "medium": {
+                "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/vertical/thrust.png"
+              }
+            },
+            "title": "Upward Thrust",
+            "url": "s3://s3-ap-southeast-1.amazonaws.com/embibe-offline-test-data/video_online/Videos/thrust.mp4",
+            "description": ""
+          }
+        }
+      ]
+    }
+  ]
+}
