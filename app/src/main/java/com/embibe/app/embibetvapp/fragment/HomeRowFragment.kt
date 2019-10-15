@@ -33,7 +33,6 @@ class HomeRowFragment : RowsSupportFragment() {
     private lateinit var videoBox: Box<Videos>
     private lateinit var contentBox: Box<Item>
 
-
     //lateinit var mBackgroundHelper: BackgroundHelper
     private val backgroundManager: BackgroundManager? by lazy {
         activity?.let {
@@ -43,7 +42,6 @@ class HomeRowFragment : RowsSupportFragment() {
         }
     }
 
-
     companion object {
         private lateinit var homeRowFragment: HomeRowFragment
         fun homeRowFragmentInstance(): HomeRowFragment {
@@ -51,7 +49,6 @@ class HomeRowFragment : RowsSupportFragment() {
             return homeRowFragment
         }
     }
-
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)

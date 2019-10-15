@@ -15,12 +15,13 @@
 
 package com.embibe.app.embibetvapp.presenter
 
-import android.content.ClipData
 import android.content.Context
 import androidx.leanback.widget.Presenter
 import androidx.leanback.widget.PresenterSelector
 import com.embibe.app.embibetvapp.model.Card
 import com.embibe.app.embibetvapp.model.Item
+import com.example.sampletv.utils.ChartPresenter
+import com.example.sampletv.utils.PerformanceCardPresenter
 import java.util.*
 
 /**
@@ -31,21 +32,42 @@ class CardPresenterSelector(private val mContext: Context) : PresenterSelector()
     private val presenters = HashMap<Card.Type, Presenter?>()
 
     override fun getPresenter(item: Any): Presenter? {
-        if (item !is Item)
-            throw RuntimeException(
-                String.format(
-                    "The PresenterSelector only supports data items of type '%s'",
-                    Item::class.java.name
-                )
-            )
-        var presenter = presenters[item.type]
-        if (presenter == null) {
-            when (item.type) {
-                else -> presenter = ImageCardViewPresenter(mContext)
+//        if (item !is Card || item !is Item)
+//            throw RuntimeException(
+//                String.format(
+//                    "The PresenterSelector only supports data items of type '%s'",
+//                    Card::class.java.name
+//                )
+//            )
+
+        if (item is Card) {
+            val myItem = item as Card
+            var presenter = presenters[myItem.type]
+            if (presenter == null) {
+                presenter = when (myItem.type) {
+                    Card.Type.PERFORMANCE -> PerformanceCardPresenter(mContext)
+                    Card.Type.CHART -> ChartPresenter(mContext)
+                    else -> ImageCardViewPresenter(mContext)
+                }
             }
+            presenter?.let { myItem.type?.let { it1 -> presenters.put(it1, it) } }
+            return presenter
         }
-        presenters[item.type] = presenter
-        return presenter
+
+        if (item is Item) {
+            val myItem = item as Item
+            var presenter = presenters[myItem.type]
+            if (presenter == null) {
+                presenter = when (myItem.type) {
+                    Card.Type.PERFORMANCE -> PerformanceCardPresenter(mContext)
+                    Card.Type.CHART -> ChartPresenter(mContext)
+                    else -> ImageCardViewPresenter(mContext)
+                }
+            }
+            presenter?.let { myItem.type?.let { it1 -> presenters.put(it1, it) } }
+            return presenter
+        }
+        return null
     }
 
 }

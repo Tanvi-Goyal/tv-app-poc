@@ -14,7 +14,6 @@ import io.objectbox.relation.ToOne
 @Entity
 class Item {
 
-
     @Transient
     val type: Card.Type = Card.Type.DEFAULT
     @Transient
@@ -56,6 +55,4 @@ class Item {
     var inMyList: Boolean = false
 
     lateinit var video: ToOne<Videos>
-
-
 }

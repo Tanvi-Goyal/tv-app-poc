@@ -35,15 +35,16 @@ class ImageCardViewPresenter @JvmOverloads constructor(
     }
 
 
-    override fun onBindViewHolder(card: Item, cardView: BaseCardView) {
+    override fun onBindViewHolder(card: Any, cardView: BaseCardView) {
         val imageView = cardView.findViewById<ImageView>(R.id.main_image)
         val width = context.resources
             .getDimension(R.dimen.movie_image_card_width).toInt()
         val height = context.resources
             .getDimension(R.dimen.movie_image_card_height).toInt()
+        val myCard = card as Item
         val myOptions = RequestOptions().override(width, height)
         Glide.with(context)
-            .load(card.thumbnails)
+            .load(myCard.thumbnails)
             .diskCacheStrategy(DiskCacheStrategy.AUTOMATIC)
             .apply(myOptions)
             .into(imageView)

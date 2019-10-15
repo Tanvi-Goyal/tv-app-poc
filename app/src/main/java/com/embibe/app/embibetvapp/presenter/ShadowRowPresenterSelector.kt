@@ -18,6 +18,7 @@ package com.embibe.app.embibetvapp.presenter
 import androidx.leanback.widget.ListRowPresenter
 import androidx.leanback.widget.Presenter
 import androidx.leanback.widget.PresenterSelector
+import com.embibe.app.embibetvapp.model.Videos
 
 import com.embibe.app.embibetvapp.utils.CardListRow
 
@@ -35,7 +36,8 @@ class ShadowRowPresenterSelector : PresenterSelector() {
         if (item !is CardListRow)
             return mShadowDisabledRowPresenter
         val row = item.cardRow
-        return if (row.mShadow) mShadowEnabledRowPresenter else mShadowDisabledRowPresenter
+        return mShadowDisabledRowPresenter
+//        return if (row.mShadow) mShadowEnabledRowPresenter else mShadowDisabledRowPresenter
     }
 
     override fun getPresenters(): Array<Presenter> {

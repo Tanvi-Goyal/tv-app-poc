@@ -30,7 +30,7 @@ class CardRow {
     @SerializedName("title")
     val title: String? = null
     @SerializedName("cards")
-    val cards: List<Item>? = null
+    val cards: List<Card>? = null
 
     fun useShadow(): Boolean {
         return mShadow
