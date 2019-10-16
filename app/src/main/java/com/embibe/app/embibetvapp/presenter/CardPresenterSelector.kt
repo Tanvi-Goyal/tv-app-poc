@@ -20,8 +20,6 @@ import androidx.leanback.widget.Presenter
 import androidx.leanback.widget.PresenterSelector
 import com.embibe.app.embibetvapp.model.Card
 import com.embibe.app.embibetvapp.model.Item
-import com.example.sampletv.utils.ChartPresenter
-import com.example.sampletv.utils.PerformanceCardPresenter
 import java.util.*
 
 /**
