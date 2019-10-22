@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.os.Handler
 import androidx.fragment.app.FragmentActivity
+import com.embibe.app.embibetvapp.App
 import com.embibe.app.embibetvapp.R
 import com.embibe.app.embibetvapp.model.ObjectBox
 import com.embibe.app.embibetvapp.model.Videos

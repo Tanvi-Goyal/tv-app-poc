@@ -8,7 +8,7 @@ import android.content.Intent;
 
 import java.util.Objects;
 
-/*public class RecommendationReceiver extends BroadcastReceiver {
+public class RecommendationReceiver extends BroadcastReceiver {
     private static final long INITIAL_DELAY = 5000;
 
     @Override
@@ -24,4 +24,4 @@ import java.util.Objects;
         PendingIntent alarmIntent = PendingIntent.getService(context, 0, recommendationIntent, 0);
         alarmManager.setInexactRepeating(AlarmManager.ELAPSED_REALTIME_WAKEUP, INITIAL_DELAY, AlarmManager.INTERVAL_HALF_HOUR, alarmIntent);
     }
-}*/
+}

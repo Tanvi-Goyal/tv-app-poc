@@ -14,8 +14,8 @@
 
     <!-- A default card style. Used in cards example. -->
     <style name="DefaultCardImageStyle" parent="Widget.Leanback.ImageCardView.ImageStyle">
-        <item name="android:layout_width">@dimen/default_image_card_width</item>
-        <item name="android:layout_height">@dimen/default_image_card_height</item>
+        <item name="android:layout_width">@dimen/movie_image_card_width</item>
+        <item name="android:layout_height">@dimen/movie_image_card_height</item>
     </style>
 
     <!-- Theme corresponding to the SingleLineCardStyle -->

@@ -19,14 +19,14 @@ public class DashBoardFragment : BrowseSupportFragment() {
     private lateinit var mRowsAdapter: ArrayObjectAdapter
 
     companion object {
-        private val HEADER_ID_1: Long = 1
-        private val HEADER_NAME_1 = "HOME"
-        private val HEADER_ID_2: Long = 2
-        private val HEADER_NAME_2 = "ANALYSIS"
-        private val HEADER_ID_3: Long = 3
-        private val HEADER_NAME_3 = "PROFILE"
-        private val HEADER_ID_4: Long = 4
-        private val HEADER_NAME_4 = "SETTING"
+        private const val HEADER_ID_1: Long = 1
+        private const val HEADER_NAME_1 = "HOME"
+        private const val HEADER_ID_2: Long = 2
+        private const val HEADER_NAME_2 = "ANALYSIS"
+        private const val HEADER_ID_3: Long = 3
+        private const val HEADER_NAME_3 = "PROFILE"
+        private const val HEADER_ID_4: Long = 4
+        private const val HEADER_NAME_4 = "SETTING"
 
     }
 
@@ -46,11 +46,27 @@ public class DashBoardFragment : BrowseSupportFragment() {
 
     }
 
+    override fun onActivityCreated(savedInstanceState: Bundle?) {
+        super.onActivityCreated(savedInstanceState)
+        //updateRecommendations()
+    }
+
+    /*  private fun updateRecommendations() {
+          val recommendationIntent = Intent(activity, UpdateRecommendationsService::class.java)
+          Objects.requireNonNull<FragmentActivity>(activity).startService(recommendationIntent)
+      }*/
+
     private fun setupUi() {
         headersState = HEADERS_ENABLED
         isHeadersTransitionOnBackEnabled = true
-        brandColor = resources.getColor(R.color.fastlane_background)
+        brandColor = resources.getColor(R.color.embibe_color)
         title = "EmbibeTV"
+
+        var searchOrbView  = SearchOrbView(context)
+        searchOrbView.orbColors.brightColor = R.color.embibe_color_light
+        searchOrbView.orbColors.color = R.color.embibe_color_dark
+        searchAffordanceColors = searchOrbView.orbColors
+
         setOnSearchClickedListener {
             /*Toast.makeText(
                 activity, getString(R.string.implement_search), Toast.LENGTH_SHORT
@@ -84,10 +100,10 @@ public class DashBoardFragment : BrowseSupportFragment() {
         val headerItem3 = HeaderItem(HEADER_ID_3, HEADER_NAME_3)
         val pageRow3 = PageRow(headerItem3)
         mRowsAdapter.add(pageRow3)
-
+/*
         val headerItem4 = HeaderItem(HEADER_ID_4, HEADER_NAME_4)
         val pageRow4 = PageRow(headerItem4)
-        mRowsAdapter.add(pageRow4)
+        mRowsAdapter.add(pageRow4)*/
     }
 
 
@@ -101,7 +117,7 @@ public class DashBoardFragment : BrowseSupportFragment() {
                 row.headerItem.id == HEADER_ID_1 -> HomeRowFragment.homeRowFragmentInstance()
                 row.headerItem.id == HEADER_ID_2 -> AnalysisFragment()
                 row.headerItem.id == HEADER_ID_3 -> AnalysisFragment()
-                row.headerItem.id == HEADER_ID_4 -> AnalysisFragment()
+                // row.headerItem.id == HEADER_ID_4 -> AnalysisFragment()
                 else -> throw IllegalArgumentException(String.format("Invalid row %s", rowObj))
             }
 

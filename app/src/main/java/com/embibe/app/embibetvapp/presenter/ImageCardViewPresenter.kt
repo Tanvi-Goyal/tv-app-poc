@@ -11,6 +11,12 @@ import com.bumptech.glide.load.engine.DiskCacheStrategy
 import com.bumptech.glide.request.RequestOptions
 import com.embibe.app.embibetvapp.R
 import com.embibe.app.embibetvapp.model.Item
+import android.graphics.drawable.ColorDrawable
+import androidx.core.content.ContextCompat
+
+
+
+
 
 /**
  * A very basic [ImageCardView] [androidx.leanback.widget.Presenter].You can
@@ -41,7 +47,10 @@ class ImageCardViewPresenter @JvmOverloads constructor(
             .getDimension(R.dimen.movie_image_card_width).toInt()
         val height = context.resources
             .getDimension(R.dimen.movie_image_card_height).toInt()
-        val myOptions = RequestOptions().override(width, height)
+        val colorDrawable = ColorDrawable(ContextCompat.getColor(context, R.color.default_background))
+        val myOptions =
+            RequestOptions().override(width, height).placeholder(colorDrawable)
+
         Glide.with(context)
             .load(card.thumbnails)
             .diskCacheStrategy(DiskCacheStrategy.AUTOMATIC)

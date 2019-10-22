@@ -14,7 +14,7 @@
 
 package com.embibe.app.embibetvapp.utils
 
-import com.embibe.app.embibetvapp.activity.App
+import com.embibe.app.embibetvapp.App
 import java.io.IOException
 import java.io.InputStream
 
