@@ -38,7 +38,7 @@ abstract class AbstractCardPresenter<T : BaseCardView>
     }
 
     override fun onBindViewHolder(viewHolder: ViewHolder, item: Any) {
-        val card = item as Item
+        val card = item
         onBindViewHolder(card, viewHolder.view as T)
     }
 
@@ -64,7 +64,7 @@ abstract class AbstractCardPresenter<T : BaseCardView>
      * @param cardView The view the card is bound to.
      * @see Presenter.onBindViewHolder
      */
-    abstract fun onBindViewHolder(card: Item, cardView: T)
+    abstract fun onBindViewHolder(card: Any, cardView: T)
 
     companion object {
 

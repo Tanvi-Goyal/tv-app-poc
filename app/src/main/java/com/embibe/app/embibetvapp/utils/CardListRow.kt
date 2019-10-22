@@ -28,4 +28,4 @@ import com.embibe.app.embibetvapp.presenter.ShadowRowPresenterSelector
  * held by the row and determine whether to use a [androidx.leanback.widget.Presenter]
  * with or without a shadow.
  */
-class CardListRow(header: HeaderItem, adapter: ObjectAdapter, var cardRow: Videos) : ListRow(header, adapter)
+class CardListRow(header: HeaderItem, adapter: ObjectAdapter, var cardRow: Any) : ListRow(header, adapter)

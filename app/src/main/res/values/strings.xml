@@ -21,4 +21,8 @@
     <string name="favourite">FAVOURITE</string>
     <string name="related">RELATED</string>
     <string name="videos">VIDEOS</string>
+    <string-array name="days_array">
+        <item>Last 7 Days</item>
+        <item>Last 10 Days</item>
+    </string-array>
 </resources>

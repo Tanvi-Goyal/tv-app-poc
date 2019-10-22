@@ -1,0 +1,54 @@
+[
+  {
+    "title": "Analyse your performance",
+    "cards": [
+      {
+        "type": "PERFORMANCE",
+        "title": "Overall Accuracy",
+        "subTitleOne" : "You",
+        "subDescOne" : "75%" ,
+        "subTitleTwo" : "Social",
+        "subDescTwo" : "73%",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "PERFORMANCE",
+        "title": "Videos Watched",
+        "subTitleOne" : "You",
+        "subDescOne" : "12" ,
+        "subTitleTwo" : "Social",
+        "subDescTwo" : "14",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "PERFORMANCE",
+        "title": "Time Spent",
+        "subTitleOne" : "You",
+        "subDescOne" : "7 min" ,
+        "subTitleTwo" : "Social",
+        "subDescTwo" : "8 min",
+        "localImageResource": "card_image_movie_01"
+      },
+      {
+        "type": "PERFORMANCE",
+        "title": "Behavior Meter",
+        "subTitleOne" : "You",
+        "subDescOne" : "In Control" ,
+        "subTitleTwo" : "Social",
+        "subDescTwo" : "Struggling",
+        "localImageResource": "card_image_movie_01"
+      }
+    ]
+  },
+  {
+    "title": "See your activity time",
+    "cards": [
+      {
+        "type": "CHART",
+        "title": "Deep Into The Deep Sleep",
+        "description": "$3.99",
+        "localImageResource": "card_image_movie_01"
+      }
+    ]
+  }
+]

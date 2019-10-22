@@ -8,4 +8,5 @@
     <color name="embibe_color">#2eb8eb</color>
     <color name="embibe_color_dark">#0088b8</color>
     <color name="embibe_color_light">#74eaff</color>
+    <color name="transparent">#00000000</color>
 </resources>
