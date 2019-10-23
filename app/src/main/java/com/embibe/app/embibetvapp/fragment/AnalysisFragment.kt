@@ -22,7 +22,6 @@ import com.google.gson.Gson
  * A simple [Fragment] subclass.
  */
 class AnalysisFragment : RowsSupportFragment() {
-    private lateinit var fragmentAnalysisBinding: FragmentAnalysisBinding
     private var mRowsAdapter: ArrayObjectAdapter =
         ArrayObjectAdapter(ShadowRowPresenterSelector())
 

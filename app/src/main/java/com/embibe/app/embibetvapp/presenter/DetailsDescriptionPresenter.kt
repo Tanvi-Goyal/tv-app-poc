@@ -17,6 +17,8 @@
 package com.embibe.app.embibetvapp.presenter
 
 import androidx.leanback.widget.AbstractDetailsDescriptionPresenter
+import com.embibe.app.embibetvapp.App
+import com.embibe.app.embibetvapp.R
 
 import com.embibe.app.embibetvapp.model.Item
 
@@ -25,6 +27,9 @@ class DetailsDescriptionPresenter : AbstractDetailsDescriptionPresenter() {
     override fun onBindDescription(viewHolder: ViewHolder, item: Any) {
         val video = item as Item
         viewHolder.title.text = video.title
-        viewHolder.body.text = video.contentDescription
+        if (video.contentDescription.isNotEmpty())
+            viewHolder.body.text = video.contentDescription
+        else
+            viewHolder.body.text = App.context.getText(R.string.dummy_string)
     }
 }
