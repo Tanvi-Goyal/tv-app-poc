@@ -1,10 +1,9 @@
-package com.embibe.app.embibetvapp.activity
+package com.embibe.app.embibetvapp
 
 import android.annotation.SuppressLint
 import android.app.Application
 import android.content.Context
 import android.util.Log
-import com.embibe.app.embibetvapp.BuildConfig
 import com.embibe.app.embibetvapp.model.ObjectBox
 import com.embibe.app.embibetvapp.model.ObjectBox.boxStore
 import io.objectbox.android.AndroidObjectBrowser

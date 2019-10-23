@@ -15,9 +15,8 @@
 -->
 
 
-<ImageView xmlns:android="http://schemas.android.com/apk/res/android"
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
     android:id="@+id/main_image"
-    android:src="@drawable/app_icon_your_company"
-    android:scaleType="fitXY"
     android:layout_width="@dimen/movie_image_card_width"
     android:layout_height="@dimen/movie_image_card_height" />

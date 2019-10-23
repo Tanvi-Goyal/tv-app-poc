@@ -49,4 +49,8 @@
     <dimen name="add_remove_margin">20dp</dimen>
     <dimen name="card_width">192dp</dimen>
     <dimen name="card_height">96dp</dimen>
+
+
+    <dimen name="detail_thumb_width">274dp</dimen>
+    <dimen name="detail_thumb_height">274dp</dimen>
 </resources>

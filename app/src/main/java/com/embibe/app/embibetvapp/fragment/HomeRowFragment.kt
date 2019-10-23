@@ -1,11 +1,13 @@
 package com.embibe.app.embibetvapp.fragment
 
 
+import android.app.Activity
+import android.content.Intent
 import android.graphics.Bitmap
 import android.graphics.drawable.Drawable
 import android.os.Bundle
 import android.view.View
-import android.widget.Toast
+import androidx.core.app.ActivityOptionsCompat
 import androidx.fragment.app.Fragment
 import androidx.leanback.app.BackgroundManager
 import androidx.leanback.app.RowsSupportFragment
@@ -14,6 +16,8 @@ import com.bumptech.glide.Glide
 import com.bumptech.glide.request.RequestOptions.bitmapTransform
 import com.bumptech.glide.request.target.CustomTarget
 import com.bumptech.glide.request.transition.Transition
+import com.embibe.app.embibetvapp.R
+import com.embibe.app.embibetvapp.activity.VideoDetailActivity
 import com.embibe.app.embibetvapp.awsUtils.S3Utils
 import com.embibe.app.embibetvapp.model.Item
 import com.embibe.app.embibetvapp.model.ObjectBox
@@ -87,8 +91,14 @@ class HomeRowFragment : RowsSupportFragment() {
             }
         onItemViewClickedListener =
             OnItemViewClickedListener { itemViewHolder, item, rowViewHolder, row ->
-                Toast.makeText(activity, "Implement click handler", Toast.LENGTH_SHORT)
-                    .show()
+                val bundle = ActivityOptionsCompat.makeSceneTransitionAnimation(
+                    activity as Activity,
+                    (itemViewHolder.view as BaseCardView).findViewById(R.id.main_image),
+                    VideoDetailActivity.SHARED_ELEMENT_NAME
+                ).toBundle()
+                val intent = Intent(activity, VideoDetailActivity::class.java)
+                intent.putExtra(VideoDetailActivity.ITEM_ID, (item as Item).itemId)
+                startActivity(intent, bundle)
             }
         createRows()
         mainFragmentAdapter.fragmentHost.notifyDataReady(mainFragmentAdapter)

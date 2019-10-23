@@ -2,11 +2,9 @@ package com.embibe.app.embibetvapp.awsUtils
 
 import android.util.Log
 import com.amazonaws.auth.BasicAWSCredentials
-import com.amazonaws.regions.Region
-import com.amazonaws.regions.Regions
 import com.amazonaws.services.s3.AmazonS3
 import com.amazonaws.services.s3.AmazonS3Client
-import com.embibe.app.embibetvapp.activity.App
+import com.embibe.app.embibetvapp.App
 import java.io.IOException
 import java.util.*
 
