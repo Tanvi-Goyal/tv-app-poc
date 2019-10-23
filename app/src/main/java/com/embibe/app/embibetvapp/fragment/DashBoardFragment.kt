@@ -59,7 +59,8 @@ public class DashBoardFragment : BrowseSupportFragment() {
     private fun setupUi() {
         headersState = HEADERS_ENABLED
         isHeadersTransitionOnBackEnabled = true
-        brandColor = resources.getColor(R.color.embibe_color)
+        brandColor = resources.getColor(R.color.fastlane_background)
+        badgeDrawable = activity?.resources?.getDrawable(R.drawable.logo)
         title = "EmbibeTV"
 
         var searchOrbView  = SearchOrbView(context)
